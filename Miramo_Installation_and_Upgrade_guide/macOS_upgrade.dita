@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="linux_uninstall">
+    <title>Upgrading macOS</title>
+    <body>
+        <ol id="ol_spq_hv4_1qb">
+            <li>Drag the <ph keyref="MiramoPDF"/>
+                <ph keyref="version"/>app from the Applications folder to the Trash (at the end of the Dock)</li>
+            <li><p>Download the macOS installation package (<xref href="miramo_installation_packages.dita"/> ) and install the new version according to the instructions given
+                    in <xref href="macOS_installation.dita"/>.</p></li>
+        </ol>
+    </body>
+</topic>

@@ -1,23 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd" []>
 <concept id="A2214761-2A2B2D5-1111CB215786625-2E7F8E" xml:lang="en-US">
-    <title>Creating a custom <ph keyref="productname02"/> using <ph keyref="productname03"/></title>
+    <title>Creating a custom <ph keyref="MiramoPDF"/> using <ph keyref="oxygen"/></title>
     <prolog>
         <author>Yves</author>
     </prolog>
     <conbody>
         <section id="context_tr1_rml_k3b">
-            <p>This topic describes how to use the <b>MiramoPDF - generate new plugin</b> transformation scenario in <ph keyref="productname03"/> to create a new custom plugin.</p>
+            <p>This topic describes how to use the <b>MiramoPDF <ph keyref="version"/>- generate new plugin</b> transformation scenario in <ph keyref="oxygen"/>
+                to create a new custom plugin.</p>
         </section>
         <section><ol id="steps_epb_kpg_j3b">
                 <li>
-                    <p>In <ph keyref="productname03"/>, choose <menucascade>
+                    <p>In <ph keyref="oxygen"/>, choose <menucascade>
                             <uicontrol>Options</uicontrol>
                             <uicontrol>Import Transformation Scenarios</uicontrol>
                         </menucascade>.</p>
                 </li>
                 <li>
-                    <p>Navigate to your <ph keyref="productname02"/> installation folder, for example <filepath>C:\Program Files\Oxygen XML Editor 21\frameworks\dita\DITA-OT3.x\plugins\com.miramo.mmpdf\integration\oxygen</filepath> .</p>
+                    <p>Navigate to your <ph keyref="MiramoPDF"/> installation folder, for example <filepath>C:\Program Files\Oxygen XML Editor
+                            23\frameworks\dita\DITA-OT3.x\plugins\com.miramo.mmpdf\integration\oxygen</filepath> .</p>
                 </li>
                 <li>
                     <p>Select <filepath>MiramoPDF-generate-plugin.scenarios</filepath> and click <uicontrol>Open</uicontrol>.</p>
@@ -66,7 +68,7 @@
                         </menucascade>.</p>
                 </li>
                 <li>
-                    <p>Navigate to your newly created, custom <ph keyref="productname02"/> folder.</p>
+                    <p>Navigate to your newly created, custom <ph keyref="MiramoPDF"/> folder.</p>
                     <itemgroup>For example: <xref href="file:///C:/Program%20Files/Oxygen%20XML%20Editor%2021/frameworks/dita/DITA-OT3.x/plugins/com.example.my-mmpdf" format="html" scope="external"><filepath>C:\Program Files\Oxygen XML Editor 21\frameworks\dita\DITA-OT3.x\plugins\com.miramo.flow-mmpdf</filepath></xref> .</itemgroup>
                 </li>
                 <li>

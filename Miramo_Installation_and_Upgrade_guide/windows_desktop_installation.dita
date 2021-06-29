@@ -4,11 +4,17 @@
     <title>Installing <ph keyref="MiramoPDF"/>
         Desktop</title>
     <taskbody><context>
-        <p>Double-click on the <ph keyref="MiramoPDF"/><ph keyref="version"/>pNNNsetup.exe to
-      install MiramoPDF. When prompted, navigate to your chosen installation folder (default is
-        <filepath>C:\Program Files\Miramo\</filepath><ph keyref="MiramoPDF"/><ph keyref="version"
-        /><filepath> and click on OK to continue.</filepath>
-    </p>
+        <p>Double-click on the <codeph><ph
+                    keyref="MiramoPDF"/><ph
+                    keyref="version"
+                    />pNNNsetup.exe</codeph> to install
+                MiramoPDF. When prompted, navigate
+                to your chosen installation folder
+                (default is <filepath>C:\Program
+                    Files\Miramo\</filepath><ph
+                    keyref="MiramoPDF"/><ph
+                    keyref="version"/>
+                and click on OK to continue.</p>
     <p>If an earlier version of <ph keyref="MiramoPDF"/> is already installed, you will be prompted
         as shown below:<image href="screenshots/windows-uninstall-previous.png" placement="break"
           id="image_mh4_yrg_wpb" width="80mm" outputclass="float-right"/></p>

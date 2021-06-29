@@ -3,6 +3,20 @@
 <topic id="installing_miramo">
     <title>Installing Miramo</title>
     <body>
-        <p>This section gives installation instructions for <ph keyref="Product"/></p>
+        <p>This section gives installation instructions for <ph keyref="Product"/> on Windows (desktop and/or server), Linux (server), and macOS (desktop).</p>
+        <p>For Windows <ph
+                keyref="MiramoEnterprise"/> you
+            will need apply a license key, see
+                <xref
+                href="obtaining_a_windows_server_license.dita"
+            /> for more information.</p>
+        <p>No license key is currently required
+            for using <ph keyref="Product"/> on
+            Windows Desktop, Linux or macOS,
+            simply install and start using the
+            software. Licensing information is
+            maintained by <ph keyref="Datazone"/>
+            according to the serial number
+            allocated at the time of purchase.</p>
     </body>
 </topic>

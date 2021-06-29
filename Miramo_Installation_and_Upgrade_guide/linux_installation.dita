@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="linux_installation" platform="linux">
-    <title>Linux installation</title>
-    <body><p>This document describes how to install
+    <title>Linux Server installation</title>
+    <body><p>This section describes how to install
             the Linux version of <ph
-                keyref="Product"/> for server or
-            desktop use.</p>
+                keyref="Product"/>.</p>
         <p>Log in to the target
                 server as an admin user and follow
                 the steps below:</p>

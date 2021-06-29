@@ -313,7 +313,7 @@
 	 endIndent="0.00000in"
 	 spaceAbove="8.000000pt"
 	 spaceBelow="6.000000pt"
-	 leading="4.000000pt"
+	 leading="3.000000pt"
 	 lineSpacingMode="proportional"
 	 position="normal"
 	 withNext="N"
@@ -342,7 +342,7 @@
 	 verticalShift="0.0"
 	 objId="55"
 	 pd_displayParaAbove="body"
-	 pd_displayParaBelow="body"><ListLabel type="runin" labelIndent="0.000000in" seriesLabel="" objId="502"><leader objId="503">.</leader><counter numberStyle="hidden" objId="504"/></ListLabel>sample text</ParaDef>
+	 pd_displayParaBelow="body"><ListLabel type="runin" labelIndent="0.000000in" seriesLabel="" objId="502"><leader objId="503">.</leader><counter numberStyle="hidden" objId="504"/></ListLabel>sample text slakjflkajs; l;aksjdflkja lkjasdfl kjasdlf;k jaslkdjflaskjdfl;askjdfl;kjsdflkjsdlf;kjsalfd</ParaDef>
 <ParaDef
 	 paraDef="booktitlealt_title"
 	 fontFamily="Noto Sans"
@@ -3163,7 +3163,7 @@
 	 objId="846112"/>
 <SectionDef
 	 sectionDef="coverSection"
-	 pageCount="even"
+	 pageCount="any"
 	 pageNumberStart="increment"
 	 pageNumberDef=""
 	 paragraphNumberStart="increment"
@@ -3178,7 +3178,7 @@
 	 objId="846113"/>
 <SectionDef
 	 sectionDef="contentsSection"
-	 pageCount="even"
+	 pageCount="any"
 	 pageNumberStart="1"
 	 pageNumberStyle="lowercaseRoman"
 	 pageNumberDef=""
@@ -6398,9 +6398,9 @@
 	 firstLineIndent="0.00000in"
 	 startIndent="0.00000in"
 	 endIndent="0.00000in"
-	 spaceAbove="6.000000pt"
+	 spaceAbove="8.000000pt"
 	 spaceBelow="6.000000pt"
-	 leading="2.000000pt"
+	 leading="3.000000pt"
 	 lineSpacingMode="proportional"
 	 position="normal"
 	 withNext="N"

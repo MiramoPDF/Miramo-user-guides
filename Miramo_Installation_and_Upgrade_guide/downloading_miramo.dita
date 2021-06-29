@@ -3,7 +3,9 @@
 <topic id="downloading">
     <title>Downloading</title>
     <body>
-        <p>This document describes how to download <ph keyref="Product"/> and the <ph keyref="plugin"/> ready for installation on Windows, Linux and MacOSX.</p>
+        <p><ph keyref="Product"/> is available for
+            Windows (server and/or desktop), Linux
+            (server)  and macOS (desktop).</p>
         <p>Download the platform specific
             installation package from <xref
                 href="http://www.miramo.com/pdownload/splogin.php"
@@ -17,7 +19,7 @@
             
             Username: mdownload
             Password: summertime
-            Filename: see below
+            Filename: <i>see below</i>
             </codeblock>
         
    <p>Enter the appropriate platform specific installation package filenames as

@@ -3,10 +3,15 @@
 <topic id="testing_windows_server">
     <title>Testing Windows <ph keyref="MiramoEnterprise"/></title>
     <body>
-    <p>The Miramo installation includes two test files in the ’tmp’ folder within the Miramo
-      installation folder: ’test.xml’ and ’testbook.xml’</p>
-    <p>Once Miramo In a DOS command window, enter the following
-      commands:<codeblock id="codeblock_ctt_zjh_wpb">cd /d "%MM_HOME%/tmp"
+    <p>The Miramo installation includes two test
+            files in the ’tmp’ folder within the
+            Miramo installation folder: ’test.xml’
+            and ’testbook.xml.</p>
+        <p>To test the <ph
+                keyref="MiramoEnterprise"/>
+            installation, start a DOS command
+            window and enter the following
+            commands:<codeblock id="codeblock_ctt_zjh_wpb">cd /d "%MM_HOME%/tmp"
 miramo -Opdf test.pdf test.xml
 miramo -Opdf testbook.pdf testbook.xml</codeblock></p>
     <p>The ’test’ jobs will be visible in the mmVisor ’Jobs’ window area:<image

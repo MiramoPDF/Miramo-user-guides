@@ -65,7 +65,7 @@
   <keydef keys="MiramoEnterprise">
     <topicmeta>
       <keywords>
-        <keyword>MiramoEnterprise</keyword>
+        <keyword>MiramoEnterprise Server</keyword>
       </keywords>
     </topicmeta>
   </keydef>
@@ -78,6 +78,14 @@
   </keydef>
   <keydef keys="com.miramo.mmpdf">
     <topicmeta><keywords><keyword>com.miramo.mmpdf</keyword></keywords></topicmeta>
+  </keydef>
+  <keydef keys="Datazone">
+    <topicmeta>
+      <keywords>
+        <keyword>Datazone Ltd. (email:support@datazone.com)</keyword>
+      </keywords>
+    </topicmeta>
+    
   </keydef>
   <keydef keys="reuse" format="dita" href="reuse.dita" />
 </map>

@@ -2,8 +2,8 @@
 <!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
 <bookmap>
     <booktitle>
-        <mainbooktitle>MiramoPDF and the DITA-OT plugin</mainbooktitle>
-      <booktitlealt>Installation guide</booktitlealt>
+        <mainbooktitle>Installation Guide</mainbooktitle>
+      <booktitlealt>for DITA publishing</booktitlealt>
     </booktitle>
   <bookmeta>
     <author>Corinna Kinchin</author>
@@ -60,15 +60,18 @@
     <topicref
       href="Miramo_Installation_and_Upgrade_guide/linux_installation.dita" format="dita"/>
     <topicref
-      href="Miramo_Installation_and_Upgrade_guide/macosx_installation.dita" format="dita"/>
+      href="Miramo_Installation_and_Upgrade_guide/macOS_installation.dita" format="dita"/>
     
   </chapter>
   <chapter
     href="Miramo_Installation_and_Upgrade_guide/upgrading_miramo.dita"
     format="dita">
-      <topicref href="Miramo_Installation_and_Upgrade_guide/windows_uninstall.dita"/>
-      <topicref href="Miramo_Installation_and_Upgrade_guide/linux_uninstall.dita"/>
-  
+    <topicref
+      href="Miramo_Installation_and_Upgrade_guide/windows_desktop_upgrade.dita"/>
+      <topicref href="Miramo_Installation_and_Upgrade_guide/windows_server_upgrade.dita"/>
+    <topicref href="Miramo_Installation_and_Upgrade_guide/linux_upgrade.dita"/>
+    <topicref href="Miramo_Installation_and_Upgrade_guide/macOS_upgrade.dita"/>
+    
   </chapter>
 
   <chapter
