@@ -18,7 +18,7 @@
       <prodname>Miramo</prodname>
       <vrmlist>
         <vrm version="1.6"/>
-        <vrm version="2.0"/>
+        <vrm version="2.0.0"/>
       </vrmlist>
     </prodinfo>
   </bookmeta>
