@@ -6,10 +6,11 @@
 	<conbody>
 		<p>Extract the MiramoDITA-OTplugin&lt;vs&gt;.zip file into the DITA-OT plugins folder.</p>
 		<p>For oXygen, the built-in DITA-OT plugins folder is located in
-			<filepath>[oxygen_install_dir]/frameworks/
-        dita/DITA-OT3.x/plugins/com.miramo.mmpdf</filepath>, for example:</p>
+				<filepath>[oxygen_install_dir]/frameworks/
+				dita/DITA-OT3.x/plugins/com.miramo.mmpdf</filepath>, for example:</p>
 		<p>
-			<filepath>C:\program files\Oxygen XML Editor 21\frameworks\dita\DITA-OT3.x\plugins</filepath>
+			<filepath>C:\program files\Oxygen XML Editor
+				21\frameworks\dita\DITA-OT3.x\plugins</filepath>
 		</p>
 	</conbody>
 </concept>

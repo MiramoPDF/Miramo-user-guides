@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="introduction">
     <title>Introduction</title>
     <body>
-        <p>This guide documents how to install and upgrade <ph keyref="Product"/> and the DITA-OT plugin, for both server and desktop versions.</p>
-        <p>Note that the installation or upgrade of the <ph keyref="plugin"/> requires <ph keyref="Product"/> to be pre-installed.</p>
+        <p>This guide documents how to install and upgrade <ph keyref="Product"/> and the MiramoPDF
+            DITA-OT plugin, for both server and desktop versions.</p>
+        <p>Note that the installation or upgrade of the <ph keyref="plugin"/> requires <ph
+                keyref="Product"/> to be pre-installed.</p>
     </body>
 </topic>

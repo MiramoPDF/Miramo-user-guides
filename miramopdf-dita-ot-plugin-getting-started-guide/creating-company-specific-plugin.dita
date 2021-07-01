@@ -23,7 +23,7 @@
     <p>Modify xsl/dita2miramo.xsl, cfg/xsl/custom.xsl, cfg/strings/langlist.xml, cfg/strings/*.xml
       as required</p>
     <p>Run the DITA-OT integration process</p>
-    <p>The ant targets 'dita2mmpdf1' and 'dita2mmpdf2' will now be available, along
-      with the transformation types 'mmpdf1' and 'mmpdf2'.</p>
+    <p>The ant targets 'dita2mmpdf1' and 'dita2mmpdf2' will now be available, along with the
+      transformation types 'mmpdf1' and 'mmpdf2'.</p>
   </conbody>
 </concept>

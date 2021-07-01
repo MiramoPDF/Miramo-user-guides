@@ -8,7 +8,8 @@
       working on the target system:</p>
     <ul>
       <li>DITA-OT version 2.4 or above</li>
-      <li><ph keyref="MiramoPDF"/> Desktop or <ph keyref="MiramoEnterprise"/> vs <ph keyref="version"/> or above</li>
+      <li><ph keyref="MiramoPDF"/> Desktop or <ph keyref="MiramoEnterprise"/> vs <ph
+          keyref="version"/> or above</li>
     </ul>
     <p><ph keyref="MiramoPDF"/> Desktop edition runs on the following operating systems:</p>
     <ul>
@@ -17,6 +18,7 @@
       <li>Windows 10</li>
       <li>macOS (Catalina)</li>
     </ul>
-    <p><data keyref="MiramoEnterprise"/> is available to run on Windows Server and Linux operating systems - contact us for more information.</p>
+    <p><data keyref="MiramoEnterprise"/> is available to run on Windows Server and Linux operating
+      systems - contact us for more information.</p>
   </conbody>
 </concept>

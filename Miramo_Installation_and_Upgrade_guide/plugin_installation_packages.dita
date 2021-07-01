@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="miramo_installation_packages">
 	<title>
@@ -6,10 +6,13 @@
 	<body>
 		<p>
 			<ul id="ul_rkj_v3g_wpb">
-				<li platform="windows">Windows Desktop / Server: 
-				<p><codeph id="windows_plugin_PKG"><ph keyref="Product"/>DITA-OTplugin-<ph keyref="version"/>p<i>NNN</i>setup.exe</codeph></p>
+				<li platform="windows">Windows Desktop / Server: <p><codeph id="windows_plugin_PKG"
+								><ph keyref="Product"/>DITA-OTplugin-<ph keyref="version"
+								/>p<i>NNN</i>setup.exe</codeph></p>
 				</li>
-				<li platform="linux">Linux:<p><codeph id="LinuxRH_PKG"><ph keyref="Product"/>DITA-OTplugin-<ph keyref="version"/>p<i>NNN</i>.zip</codeph></p></li>
+				<li platform="linux">Linux:<p><codeph id="LinuxRH_PKG"><ph keyref="Product"
+								/>DITA-OTplugin-<ph keyref="version"
+					/>p<i>NNN</i>.zip</codeph></p></li>
 			</ul>
 		</p>
 	</body>

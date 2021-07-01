@@ -61,13 +61,13 @@
 						<null/>
 					</field>
 					<field name="additionalAntArgs">
-						<String></String>
+						<String/>
 					</field>
 					<field name="buildTarget">
 						<String>dita2gettingstarted-mmpdf</String>
 					</field>
 					<field name="buildFilePath">
-						<String></String>
+						<String/>
 					</field>
 					<field name="ditaParams">
 						<list>
@@ -96,8 +96,8 @@
 								</field>
 								<field name="possibleValuesDescriptions">
 									<String-array>
-										<String></String>
-										<String></String>
+										<String/>
+										<String/>
 									</String-array>
 								</field>
 							</ditaParameter>
@@ -112,19 +112,19 @@
 									<String>${cfd}</String>
 								</field>
 								<field name="defaultValue">
-									<String></String>
+									<String/>
 								</field>
 								<field name="type">
 									<Integer>0</Integer>
 								</field>
 								<field name="possibleValues">
 									<String-array>
-										<String></String>
+										<String/>
 									</String-array>
 								</field>
 								<field name="possibleValuesDescriptions">
 									<String-array>
-										<String></String>
+										<String/>
 									</String-array>
 								</field>
 							</ditaParameter>
@@ -155,10 +155,10 @@
 								</field>
 								<field name="possibleValuesDescriptions">
 									<String-array>
-										<String></String>
-										<String></String>
-										<String></String>
-										<String></String>
+										<String/>
+										<String/>
+										<String/>
+										<String/>
 									</String-array>
 								</field>
 							</ditaParameter>
@@ -173,14 +173,14 @@
 									<String>topic</String>
 								</field>
 								<field name="defaultValue">
-									<String></String>
+									<String/>
 								</field>
 								<field name="type">
 									<Integer>4</Integer>
 								</field>
 								<field name="possibleValues">
 									<String-array>
-										<String></String>
+										<String/>
 										<String>map</String>
 										<String>topic</String>
 										<null/>
@@ -188,9 +188,9 @@
 								</field>
 								<field name="possibleValuesDescriptions">
 									<String-array>
-										<String></String>
-										<String></String>
-										<String></String>
+										<String/>
+										<String/>
+										<String/>
 									</String-array>
 								</field>
 							</ditaParameter>
@@ -205,19 +205,19 @@
 									<String>${cfd}/mmtemplates</String>
 								</field>
 								<field name="defaultValue">
-									<String></String>
+									<String/>
 								</field>
 								<field name="type">
 									<Integer>0</Integer>
 								</field>
 								<field name="possibleValues">
 									<String-array>
-										<String></String>
+										<String/>
 									</String-array>
 								</field>
 								<field name="possibleValuesDescriptions">
 									<String-array>
-										<String></String>
+										<String/>
 									</String-array>
 								</field>
 							</ditaParameter>
@@ -244,7 +244,7 @@
 								</field>
 								<field name="possibleValuesDescriptions">
 									<String-array>
-										<String></String>
+										<String/>
 									</String-array>
 								</field>
 							</ditaParameter>
@@ -273,8 +273,8 @@
 								</field>
 								<field name="possibleValuesDescriptions">
 									<String-array>
-										<String></String>
-										<String></String>
+										<String/>
+										<String/>
 									</String-array>
 								</field>
 							</ditaParameter>
@@ -303,8 +303,8 @@
 								</field>
 								<field name="possibleValuesDescriptions">
 									<String-array>
-										<String></String>
-										<String></String>
+										<String/>
+										<String/>
 									</String-array>
 								</field>
 							</ditaParameter>
@@ -332,8 +332,8 @@
 								</field>
 								<field name="possibleValuesDescriptions">
 									<String-array>
-										<String></String>
-										<String></String>
+										<String/>
+										<String/>
 									</String-array>
 								</field>
 							</ditaParameter>
@@ -393,7 +393,7 @@
 								</field>
 								<field name="possibleValuesDescriptions">
 									<String-array>
-										<String></String>
+										<String/>
 									</String-array>
 								</field>
 							</ditaParameter>
@@ -452,13 +452,13 @@
 						<Boolean>false</Boolean>
 					</field>
 					<field name="customJavaHomeDir">
-						<String></String>
+						<String/>
 					</field>
 					<field name="useCustomANTHome">
 						<Boolean>false</Boolean>
 					</field>
 					<field name="customANTHomeDir">
-						<String></String>
+						<String/>
 					</field>
 					<field name="workingDir">
 						<null/>

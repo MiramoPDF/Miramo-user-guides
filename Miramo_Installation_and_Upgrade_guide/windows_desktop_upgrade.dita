@@ -1,16 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="windows_desktop_upgrade">
     <title>Upgrading Windows Desktop </title>
     <body>
-        <p>For Windows Desktop versions of
-            MiramoPDF, simply download the Windows
-            Desktop installation package (<xref
-                href="miramo_installation_packages.dita"
-            />) then double-click on the setup.exe
-            and follow the instructions, choosing
-            default options and answering 'Yes'
-            when prompted whether to uninstall
-            existing versions.</p>
+        <p>For Windows Desktop versions of MiramoPDF, simply download the Windows Desktop
+            installation package (<xref href="miramo_installation_packages.dita"/>) then
+            double-click on the setup.exe and follow the instructions, choosing default options and
+            answering 'Yes' when prompted whether to uninstall existing versions.</p>
     </body>
 </topic>

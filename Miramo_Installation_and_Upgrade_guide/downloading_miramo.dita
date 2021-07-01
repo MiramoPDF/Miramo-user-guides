@@ -1,15 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="downloading">
     <title>Downloading</title>
     <body>
-        <p><ph keyref="Product"/> is available for
-            Windows (server and/or desktop), Linux
-            (server)  and macOS (desktop).</p>
-        <p>Download the platform specific
-            installation package from <xref
-                href="http://www.miramo.com/pdownload/splogin.php"
-                format="html" scope="external"
+        <p><ph keyref="Product"/> is available for Windows (server and/or desktop), Linux (server)
+            and macOS (desktop).</p>
+        <p>Download the platform specific installation package from <xref
+                href="http://www.miramo.com/pdownload/splogin.php" format="html" scope="external"
             /></p>
         <codeblock>URL: http://www.miramo.com/pdownload/splogin.php
             
@@ -21,8 +18,7 @@
             Password: summertime
             Filename: <i>see below</i>
             </codeblock>
-        
-   <p>Enter the appropriate platform specific installation package filenames as
-      follows:</p>
-   </body>
+
+        <p>Enter the appropriate platform specific installation package filenames as follows:</p>
+    </body>
 </topic>

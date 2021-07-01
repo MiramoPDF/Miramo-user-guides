@@ -43,7 +43,7 @@
       <dlentry>
         <dt>integration/oxygen/MiramoPDF.scenarios</dt>
         <dd>
-          <p>The oXygen transformation scenario for producing a PDF from the currently edited DITA
+          <p>The oXygen transformation scenarios for producing a PDF from the currently edited DITA
             file. Import into your oXygen tool using Options-&gt;import transformations</p>
         </dd>
       </dlentry>
@@ -62,11 +62,11 @@
       <dlentry>
         <dt>mmtemplates/</dt>
         <dd>
-          <p>Miramo Format Definitions default template for DITA publishing:</p>
+          <p>Miramo Format Definitions default templates for DITA publishing:</p>
           <p>Miramo Format Definitions templates are XML files which can be edited using the
             MiramoPDF GUI template design tool, <b>MiramoDesigner</b>. </p>
           <p><b>default.mfd</b></p>
-          <p>default template used for publishing DITA content out of the box</p>
+          <p>default template used for publishing DITA content 'out of the box'</p>
         </dd>
       </dlentry>
       <dlentry>

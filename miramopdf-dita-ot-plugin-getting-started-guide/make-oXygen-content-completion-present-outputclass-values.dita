@@ -9,7 +9,7 @@
       using.</p>
     <p>The cc_config_miramo.xml file is located here:</p>
     <p><filepath>[oxygen_install_dir]/frameworks/dita/DITA-OT3.x/plugins/com.miramo.mmpdf/integration/oxygen/
-      cc_config_miramo.xml</filepath></p>
+        cc_config_miramo.xml</filepath></p>
     <p>and contains entries like this:</p>
     <codeblock>&lt;match elementName="p" attributeName="outputclass">
 	&lt;items action="append">

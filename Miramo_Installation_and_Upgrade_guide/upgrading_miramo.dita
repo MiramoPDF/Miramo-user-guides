@@ -1,14 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="upgrading_miramo">
     <title>Upgrading <ph keyref="Product"/></title>
 
     <conbody>
-        <p>This section describes how to upgrade
-                <ph keyref="Product"/>  on
-            Windows, Linux and macOS.</p>
-        <p>For information on upgrading the <ph
-                keyref="plugin"/>, see <xref
+        <p>This section describes how to upgrade <ph keyref="Product"/> on Windows, Linux and
+            macOS.</p>
+        <p>For information on upgrading the <ph keyref="plugin"/>, see <xref
                 href="../miramopdf-dita-ot-plugin-getting-started-guide/upgrading-miramo-dita-ot-plugin.dita"
             />.</p>
     </conbody>
