@@ -5,12 +5,9 @@
     <body>
         <p><ph keyref="Product"/> is available for Windows (server and/or desktop), Linux (server)
             and macOS (desktop).</p>
-        <p>Download the platform specific installation package from <xref
-                href="http://miramo.com/secure-download/?enterprise" format="html" scope="external"
-            /></p>
-        <codeblock>URL:http://miramo.com/secure-download/?enterprise  
-            Complete the form with your company name, country, contact name
-            and email address, together with the download code provided by email and click the Submit button.       
-           </codeblock>
+        <p>A link to the following download form and a download code will be supplied by email
+            according to the license purchased. <image href="screenshots/downloadForm.png"
+                placement="break" id="image_mh4_yrg_wpb" width="60mm" outputclass="float-right"
+            /></p>       
     </body>
 </topic>
