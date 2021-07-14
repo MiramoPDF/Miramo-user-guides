@@ -10,9 +10,10 @@
       subfolder (by
         default,<filepath>[oxygen_install_dir]/frameworks/dita/DITA-OT3.x/plugins/com.miramo.mmpdf/integration/oxygen</filepath>
       ).</p>
-    <p>This creates the <b>MiramoPDF</b> and <b>MiramoPDF dev</b> (with PDF tooltips) transformation
+    <p>This creates the <b>MiramoPDF  keyref="version"</b> and <b>MiramoPDF  keyref="version"dev</b> (with PDF tooltips) transformation
       scenarios, which are set up to produce a PDF from the currently edited DITA file, and which
-      can be applied and modified as required. See <xref href="ant-build-parameters.dita"/> for more
+      can be applied and modified as required. See <xref
+        href="ant-build-parameters.dita#ant-build-parameters/antbuildparams"/> for more
       information.</p>
   </conbody>
 </concept>

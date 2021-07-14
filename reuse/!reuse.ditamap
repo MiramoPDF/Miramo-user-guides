@@ -62,6 +62,14 @@
     </topicmeta>
 
   </keydef>
+  <keydef keys="oxygenVersion">
+    <topicmeta>
+      <keywords>
+        <keyword>23.1r</keyword>
+      </keywords>
+    </topicmeta>
+    
+  </keydef>
   <keydef keys="MiramoEnterprise">
     <topicmeta>
       <keywords>
@@ -89,7 +97,6 @@
         <keyword>Datazone Ltd. (email:support@datazone.com)</keyword>
       </keywords>
     </topicmeta>
-
   </keydef>
   <keydef keys="reuse" format="dita" href="reuse.dita"/>
 </map>

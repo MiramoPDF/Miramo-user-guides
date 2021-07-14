@@ -82,14 +82,14 @@
         </topicref>
         <topicref href="miramopdf-dita-ot-plugin-getting-started-guide/integrating-with-oxygen3.dita"/>
       </topicref>
-      <topicref href="miramopdf-dita-ot-plugin-getting-started-guide/installing-integrating-plugin-with-xmetal.dita">
+      <!--<topicref href="miramopdf-dita-ot-plugin-getting-started-guide/installing-integrating-plugin-with-xmetal.dita">
         <topicref href="miramopdf-dita-ot-plugin-getting-started-guide/installing-from-setup-exe-xmetal.dita"/>
         <topicref href="miramopdf-dita-ot-plugin-getting-started-guide/files-and-folders-xref.dita"/>
         <topicref href="miramopdf-dita-ot-plugin-getting-started-guide/configuring-xmetal.dita">
           <topicref href="miramopdf-dita-ot-plugin-getting-started-guide/create-miramopdf-deliverable-types-in-xmetal.dita"/>
         </topicref>
         <topicref href="miramopdf-dita-ot-plugin-getting-started-guide/test-integration-xmetal.dita"/>
-      </topicref>
+      </topicref>-->
       
     </topicref>
     <topicref href="miramopdf-dita-ot-plugin-getting-started-guide/files-and-folders.dita"/>

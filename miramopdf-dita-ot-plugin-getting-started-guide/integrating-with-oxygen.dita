@@ -3,5 +3,5 @@
   PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept xml:lang="en-us" id="integrating-with-oxygen">
 	<title>Integrating the <ph keyref="plugin"/> with oXygen</title>
-	<conbody/>
+	<conbody> <p>This section details how to integrate the MiramoPDF DITA-OT plugin with oXygen. </p></conbody>
 </concept>

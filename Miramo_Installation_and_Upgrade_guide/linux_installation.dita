@@ -20,7 +20,7 @@
         </ol>
         <p>The install.sh script runs the ’installComposer.sh’ script which does the following:<ul
                 id="ul_azx_ck5_wpb">
-                <li>installs the fontconfig prerequisite if necessary.</li>
+                <li>installs the fontconfig prerequisite, if necessary.</li>
                 <li>makes a link from <codeph>/usr/local/bin/miramo</codeph> and
                             <codeph>/usr/local/bin/miramo-<ph keyref="version"/></codeph> to the
                         <codeph>runComposer.sh</codeph> wrapper script located in the installation

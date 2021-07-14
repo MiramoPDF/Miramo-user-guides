@@ -6,19 +6,11 @@
         <p><ph keyref="Product"/> is available for Windows (server and/or desktop), Linux (server)
             and macOS (desktop).</p>
         <p>Download the platform specific installation package from <xref
-                href="http://www.miramo.com/pdownload/splogin.php" format="html" scope="external"
+                href="http://miramo.com/secure-download/?enterprise" format="html" scope="external"
             /></p>
-        <codeblock>URL: http://www.miramo.com/pdownload/splogin.php
-            
-            Complete the form with your company, contact name
-            and email address, together with the username, password
-            and filename below:
-            
-            Username: mdownload
-            Password: summertime
-            Filename: <i>see below</i>
-            </codeblock>
-
-        <p>Enter the appropriate platform specific installation package filenames as follows:</p>
+        <codeblock>URL:http://miramo.com/secure-download/?enterprise  
+            Complete the form with your company name, country, contact name
+            and email address, together with the download code provided by email and click the Submit button.       
+           </codeblock>
     </body>
 </topic>
