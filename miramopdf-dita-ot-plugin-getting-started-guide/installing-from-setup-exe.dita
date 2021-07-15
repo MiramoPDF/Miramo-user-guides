@@ -8,7 +8,7 @@
       install root folder, which contains the 'integrator.xml' file. The MiramoDITA-OT plugin source
       (including samples, command scripts and templates) will be located in the <filepath>[dita-ot
         install dir]/ plugins/com.miramo.mmpdf</filepath> folder, for example:</p>
-    <p><filepath>C:\program files (x86)\dita-ot-3.3\plugins\com.miramo.mmpdf</filepath></p>
+    <p><filepath>C:\program files (x86)\dita-ot-3.6.1\plugins\com.miramo.mmpdf</filepath></p>
     <p>The MiramoDITA-OTplugin&lt;vs&gt;setup.exe will run the DITA-OT integrator and will append
       the com.miramo.mmpdf folder to the PATH environment variable. The plugin is now ready to
       use.</p>

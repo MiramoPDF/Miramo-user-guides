@@ -6,13 +6,12 @@
 	<body>
 		<p>
 			<ul id="ul_rkj_v3g_wpb">
-				<li platform="windows">Windows Desktop / Server: <p><codeph id="windows_plugin_PKG"
+				<li platform="windows">Windows Desktop / Server: <codeph id="windows_plugin_PKG"
 								><ph keyref="Product"/>DITA-OTplugin-<ph keyref="version"
-								/>p<i>NNN</i>setup.exe</codeph></p>
+								/>p<i>NNN</i>.zip</codeph>
 				</li>
-				<li platform="linux">Linux:<p><codeph id="LinuxRH_PKG"><ph keyref="Product"
-								/>DITA-OTplugin-<ph keyref="version"
-					/>p<i>NNN</i>.zip</codeph></p></li>
+				<li>All platforms: <codeph>com.miramo.mmpdf-<ph keyref="version"
+					/>p<i>NNN</i>.zip</codeph></li>
 			</ul>
 		</p>
 	</body>

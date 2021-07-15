@@ -65,7 +65,7 @@
   <keydef keys="oxygenVersion">
     <topicmeta>
       <keywords>
-        <keyword>23.1r</keyword>
+        <keyword>23</keyword>
       </keywords>
     </topicmeta>
     
@@ -73,7 +73,7 @@
   <keydef keys="MiramoEnterprise">
     <topicmeta>
       <keywords>
-        <keyword>MiramoEnterprise Server</keyword>
+        <keyword>MiramoEnterprise</keyword>
       </keywords>
     </topicmeta>
   </keydef>
@@ -95,6 +95,27 @@
     <topicmeta>
       <keywords>
         <keyword>Datazone Ltd. (email:support@datazone.com)</keyword>
+      </keywords>
+    </topicmeta>
+  </keydef>
+  <keydef keys="DesktopDownloadURL">
+    <topicmeta>
+      <keywords>
+        <keyword>https://miramo.com/secure-download</keyword>
+      </keywords>
+    </topicmeta>
+  </keydef>
+  <keydef keys="EnterpriseDownloadURL">
+    <topicmeta>
+      <keywords>
+        <keyword>https://miramo.com/secure-download/?enterprise</keyword>
+      </keywords>
+    </topicmeta>
+  </keydef>
+  <keydef keys="patchLevel">
+    <topicmeta>
+      <keywords>
+        <keyword>p017</keyword>
       </keywords>
     </topicmeta>
   </keydef>

@@ -4,8 +4,8 @@
   <title>Obtaining a license</title>
   <taskbody>
     <context>
-      <p>To request a MiramoEnterprise license for the Miramo server, email support@datazone.com
-        with the server information displayed by the ’mmhostid’ command: A license key will then be emailed back which may then be applied via the ’mmVisor’ Help->Apply license key menu. </p>
+      <p>To request a MiramoEnterprise license for the Miramo Server, email support@datazone.com
+        with the Server information displayed by the ’mmhostid’ command: A license key will then be emailed back which may then be applied via the ’mmVisor’ Help->Apply license key menu. </p>
       <p>Below are detailed instructions:</p>
       <ol>
         <li>Once MiramoEnterprise is installed, log in as a user with Administrator privileges,

@@ -4,7 +4,7 @@
     <title>Installing Miramo</title>
     <body>
         <p>This section gives installation instructions for <ph keyref="Product"/> on Windows
-            (desktop and/or server), Linux (server), and macOS (desktop).</p>
+            (Desktop and/or Server), Linux (Server), and macOS (Desktop).</p>
         <p>For Windows <ph keyref="MiramoEnterprise"/> you will to need apply a license key, see
                 <xref href="obtaining_a_windows_server_license.dita"/> for more information.</p>
         <p>Currently a license key is not required to use <ph keyref="Product"/> on Windows Desktop,
