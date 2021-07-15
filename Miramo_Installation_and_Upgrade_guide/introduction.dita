@@ -4,7 +4,7 @@
     <title>Introduction</title>
     <body>
         <p>This guide documents how to install and upgrade <ph keyref="Product"/> and the MiramoPDF
-            DITA-OT plugin, for both Server and Desktop versions.</p>
+            DITA-OT plugin, for <ph product="MiramoEnterprise">both Server and </ph>Desktop versions.</p>
         <p>Note that the installation or upgrade of the <ph keyref="plugin"/> requires <ph
                 keyref="Product"/> to be pre-installed.</p>
     </body>

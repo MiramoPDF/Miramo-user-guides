@@ -2,4 +2,8 @@
 <val>
     <prop att="product" val="MiramoEnterprise" action="exclude"/>
     <prop att="product" val="MiramoPDF" action="include"/>
+    <prop att="platform" val="windows" action="include"/>
+    <prop att="platform" val="mac" action="include"/>
+    <prop att="platform" val="linux" action="exclude"/>
+    
 </val>
