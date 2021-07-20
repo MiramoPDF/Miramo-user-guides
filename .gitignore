@@ -12,3 +12,4 @@ _content/*_miramo.xml
 *.mmtmp.ix
 *.pdf
 *.bak
+*toBeTrashed*

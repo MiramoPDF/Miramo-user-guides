@@ -177,7 +177,7 @@
               to format section title elements as topic_title* paragraphs</entry>
           </row>
           <row>
-            <entry>mmpdf:inlineImageVerticalOffset</entry>
+            <entry>mmpdf:inlineImageVerticalShift</entry>
             <entry>0pt</entry>
             <entry>Set default vertical shift for inline images - positive value moves image
               baseline down, percentage is relative to image height</entry>

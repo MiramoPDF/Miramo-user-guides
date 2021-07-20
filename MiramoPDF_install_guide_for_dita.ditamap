@@ -15,7 +15,7 @@
       <data name="url" value="www.miramo.com"/>
     </publisherinformation>
     <prodinfo>
-      <prodname>Miramo</prodname>
+      <prodname>MiramoPDF</prodname>
       <vrmlist>
         <vrm version="1.6"/>
         <vrm version="2.0.0"/>
@@ -26,40 +26,26 @@
     <booklists>
       <toc/>
     </booklists>
+    <mapref href="_warehouse/!reuse.ditamap" format="ditamap" processing-role="resource-only"/>
+    <mapref href="_warehouse/_warehouse.ditamap" format="ditamap" processing-role="resource-only"/>
   </frontmatter>
-  <chapter href="reuse/!reuse.ditamap" format="ditamap" processing-role="resource-only"/>
+ 
   <chapter href="Miramo_Installation_and_Upgrade_guide/introduction.dita" format="dita">
-    <topicref href="Miramo_Installation_and_Upgrade_guide/downloading_miramo.dita"/>
+    <topicref href="Miramo_Installation_and_Upgrade_guide/downloading_miramopdf.dita"/>
     <topicref href="Miramo_Installation_and_Upgrade_guide/miramo_installation_packages.dita"/>
     <topicref href="Miramo_Installation_and_Upgrade_guide/plugin_installation_packages.dita"/>
   </chapter>
   <chapter href="Miramo_Installation_and_Upgrade_guide/installing_miramo.dita" format="dita">
-    <topicref href="Miramo_Installation_and_Upgrade_guide/windows_installation.dita" format="dita">
-      <topicref href="Miramo_Installation_and_Upgrade_guide/windows_desktop_installation.dita"
-        format="dita"/>
-      <topicref href="Miramo_Installation_and_Upgrade_guide/windows_server_installation.dita"
-        product="MiramoEnterprise" format="dita">
-        <topicref href="Miramo_Installation_and_Upgrade_guide/testing_windows_server.dita"
-          format="dita"/>
-        <topicref href="Miramo_Installation_and_Upgrade_guide/mmuser_access_permissions.dita"
-          format="dita"/>
-        <topicref
-          href="Miramo_Installation_and_Upgrade_guide/using_mmaccess_to_enable_write_permissions.dita"
-          format="dita"/>
-        <topicref
-          href="Miramo_Installation_and_Upgrade_guide/obtaining_a_windows_server_license.dita"
-          format="dita"/>
-      </topicref>
-    </topicref>
-    <topicref href="Miramo_Installation_and_Upgrade_guide/linux_installation.dita" format="dita"/>
+    <topicref href="Miramo_Installation_and_Upgrade_guide/windows_desktop_installation.dita"
+      format="dita"/>
     <topicref href="Miramo_Installation_and_Upgrade_guide/macOS_installation.dita" format="dita"/>
+    <topicref href="Miramo_Installation_and_Upgrade_guide/linux_installation.dita" format="dita"/>
 
   </chapter>
   <chapter href="Miramo_Installation_and_Upgrade_guide/upgrading_miramo.dita" format="dita">
     <topicref href="Miramo_Installation_and_Upgrade_guide/windows_desktop_upgrade.dita"/>
-    <topicref href="Miramo_Installation_and_Upgrade_guide/windows_server_upgrade.dita"/>
-    <topicref href="Miramo_Installation_and_Upgrade_guide/linux_upgrade.dita"/>
     <topicref href="Miramo_Installation_and_Upgrade_guide/macOS_upgrade.dita"/>
+    <topicref href="Miramo_Installation_and_Upgrade_guide/linux_upgrade.dita"/>
 
   </chapter>
 

@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="windows_desktop_installation">
-    <title>Installing <ph keyref="MiramoPDF"/> Desktop</title>
+    <title>Windows <ph keyref="MiramoPDF"/> Desktop installation</title>
     <taskbody>
         <context>
             <p>Double-click on the <codeph><ph keyref="MiramoPDF"/><ph keyref="version"

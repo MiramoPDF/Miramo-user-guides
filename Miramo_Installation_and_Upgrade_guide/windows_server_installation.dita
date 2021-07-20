@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="windows_server_installation">
-  <title>Installing <ph keyref="MiramoEnterprise"/></title>
+  <title>Windows <ph keyref="MiramoEnterprise"/> installation</title>
   <taskbody>
     <context><ph keyref="MiramoEnterprise"/> job queuing, scheduling and processing is handled by a
       Windows service, mmServer, which for security reasons runs in the context of a designated

@@ -3,7 +3,7 @@
 <topic id="linux_installation" platform="linux">
     <title>Linux Server installation</title>
     <body>
-        <p>This section describes how to install the Linux version of <ph keyref="MiramoEnterprise"/>.</p>
+        <p>This section describes how to install the Linux version of <ph keyref="Miramo"/>.</p>
         <p>Log in to the target Server as an admin user and follow the steps below:</p>
         <ol id="ol_pdr_yxt_wpb">
             <li>Create a new folder if necessary, eg <codeph>/opt/miramo</codeph>:
