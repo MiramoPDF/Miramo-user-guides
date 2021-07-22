@@ -8,9 +8,9 @@
       existing DITA-OT installation folder for the first time. For information on upgrading the
       plugin see <xref href="upgrading-miramo-dita-ot-plugin.dita"/>.</p>
     <p>To integrate with your XML authoring tool or DITA CMS, follow the instructions given by your
-      vendor. See Appendices for information on <xref
-        href="installing-integrating-plugin-with-oxygen.dita"/>.</p>
-    <p>See <xref href="files-and-folders.dita"/> for a list of files and folders installed in the
-      DITA-OT <codeph>plugins/ com.miramo.mmpdf</codeph> folder.</p>
+      vendor. See <xref href="integrating-with-oxygen.dita"/></p>
+    <p>See <xref href="files-and-folders.dita"/> for a list of files and folders installed by the
+        <ph keyref="plugin"/> located in the DITA-OT <codeph>plugins/com.miramo.mmpdf</codeph>
+      folder.</p>
   </conbody>
 </concept>

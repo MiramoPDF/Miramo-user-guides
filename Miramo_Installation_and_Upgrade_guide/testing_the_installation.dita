@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="testing_the_installation">
+    <title>Testing the installation</title>
+    <body>
+        <p>Create a file <codeph>test.xml</codeph> in a temporary folder, containing the following
+            MiramoXML markup:<codeblock id="codeblock_vkh_gwt_3qb">&lt;MiramoXML>
+&lt;P>Hello World!&lt;/P>
+&lt;/MiramoXML></codeblock></p>
+        <p>Start a command window, change to the folder containing <codeph>test.xml</codeph> and
+            enter the following
+            command:<codeblock id="codeblock_otj_kwt_3qb">miramo -Opdf test.pdf test.xml</codeblock></p>
+        <p>If successful, the following message will be
+            displayed:<codeblock id="codeblock_mh5_mwt_3qb">mmComposer: 1 : Completed 0 error(s) and 0 warning(s)</codeblock></p>
+        <p>… and the <codeph>test.pdf</codeph> file will have been created containing 'Hello
+            World!'.</p>
+    </body>
+</topic>

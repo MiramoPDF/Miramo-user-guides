@@ -3,14 +3,17 @@
 <topic id="linux_installation" platform="linux">
     <title>Linux Server installation</title>
     <body>
-        <p>This section describes how to install the Linux version of <ph keyref="Miramo"/>.</p>
-        <p>Log in to the target Server as an admin user and follow the steps below:</p>
+        <p>This section describes how to install the Linux version of <ph keyref="Product"/>.</p>
+        <p>Log in to the target server as an admin user and follow the steps below:</p>
         <ol id="ol_pdr_yxt_wpb">
             <li>Create a new folder if necessary, eg <codeph>/opt/miramo</codeph>:
                 <codeblock id="codeblock_in4_vyt_wpb">mkdir -p /opt/miramo</codeblock></li>
             <li> Change directory to the new folder: <codeblock>cd /opt/miramo</codeblock></li>
             <li>Extract files from the downloaded distribution package, for
-                example:<codeblock>tar -xzof /tmp/MiramoPDF-DBD-2.0.0p<i>NNN</i>.tar.gz                    </codeblock>to
+                example:<codeblock>tar -xzof <ph
+                    keyref="MiramoEnterprise"/>-CentOS7-<ph
+                        keyref="version"
+                    />p<i>NNN</i>.tar.gz<i>NNN</i>.tar.gz                    </codeblock>to
                 create <codeph>/opt/miramo/MiramoPDF-2.0.0p<i>NNN</i></codeph> - this is the Miramo
                 installation folder.</li>
             <li>Change directory to the installation folder, eg:
@@ -30,8 +33,10 @@
             </ul></p>
         <p>If you wish to install multiple concurrent versions of the composition engine, and are
             publishing using the <ph keyref="plugin"/>, the location of the runMmComposer.sh script
-            may be configured using the <codeph>miramopath</codeph> ant build parameter. To read
-            more about ant build parameters see <xref
+            may be configured using the <codeph>miramopath</codeph> ant build parameter. See the
+                <xref conkeyref="xrefs/xref_wx1_dmc_hqb"/> for information on <ph keyref="Product"/>
+            related ant build parameters.</p>
+        <p>To read more about ant build parameters see <xref
                 href="https://www.oxygenxml.com/doc/versions/23.1/ug-editor/topics/ant-transformation-parameters-tab.html"
                 format="html" scope="external"/> and <xref
                 href="https://www.dita-ot.org/2.0/readme/dita-command-properties.html" format="html"

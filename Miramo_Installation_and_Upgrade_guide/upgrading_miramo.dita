@@ -8,6 +8,8 @@
             macOS.</p>
         <p>For information on upgrading the <ph keyref="plugin"/>, see <xref
                 href="../miramopdf-dita-ot-plugin-getting-started-guide/upgrading-miramo-dita-ot-plugin.dita"
+            />. </p>
+        <p>If necessary, upgrade <ph keyref="Product"/> before upgrading the <ph keyref="plugin"
             />.</p>
     </conbody>
 </concept>

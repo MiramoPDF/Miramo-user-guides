@@ -4,16 +4,21 @@
 <concept xml:lang="en-us" id="import-miramopdf-transformation-scenarios-oxygen">
   <title>Import MiramoPDF transformation scenarios [oXygen]</title>
   <conbody>
-    <p>Once the com.miramo.mmpdf folder is installed in the DITA-OT plugins folder, set up the
-      MiramoPDF transformation scenario: Choose options-&gt;import transformation scenarios, then
-      navigate to the MiramoPDF.scenarios file located in the com.miramo.mmpdf/integration/oxygen
-      subfolder (by
+    <p>Once the <ph keyref="plugin"/> has been installed and the <codeph>com.miramo.mmpdf</codeph>
+      folder is in the DITA-OT plugins folder, set up the MiramoPDF transformation scenario: </p>
+    <p>Choose <menucascade>
+        <uicontrol>Options</uicontrol>
+        <uicontrol/>
+        <uicontrol>Import Transformation Scenarios</uicontrol>
+      </menucascade> and navigate to the <codeph>MiramoPDF.scenarios</codeph> file located in
+        the<codeph> com.miramo.mmpdf/integration/oxygen</codeph> subfolder (by
         default,<filepath>[oxygen_install_dir]/frameworks/dita/DITA-OT3.x/plugins/com.miramo.mmpdf/integration/oxygen</filepath>
       ).</p>
-    <p>This creates the <b>MiramoPDF  keyref="version"</b> and <b>MiramoPDF  keyref="version"dev</b> (with PDF tooltips) transformation
-      scenarios, which are set up to produce a PDF from the currently edited DITA file, and which
-      can be applied and modified as required. See <xref
-        href="ant-build-parameters.dita#ant-build-parameters/antbuildparams"/> for more
-      information.</p>
+    <p>This creates the <codeph><ph keyref="MiramoPDF"/>
+        <ph keyref="version"/></codeph> and <codeph><ph keyref="MiramoPDF"/>
+        <ph keyref="version"/> Dev (with PDF tooltips)</codeph> transformation scenarios, which are
+      set up to produce a PDF from the currently edited DITA file, and which can be applied and
+      modified as required. </p>
+    <p>See the <xref conkeyref="xrefs/xref_wx1_dmc_hqb"/> for more information.</p>
   </conbody>
 </concept>

@@ -3,7 +3,7 @@
 <topic id="miramo_installation_packages">
         <title>Miramo installation packages</title>
         <body>
-                <p>Here are the names of the <ph product="MiramoEnterprise"><ph keyref="MiramoEnterprise"/> and </ph><ph keyref="MiramoPDF"/> (Desktop) installation packages:</p>
+                <p>Here are the names of the <ph product="Miramo"/> installation packages referenced in this document:</p>
                 <p>
                         <ul id="ul_rkj_v3g_wpb">
                                 <li product="MiramoEnterprise" platform="windows"><ph
@@ -12,11 +12,13 @@
                                                   keyref="MiramoEnterprise"/>-win-<ph
                                                   keyref="version"
                                         />p<i>NNN</i>.zip</codeph></li>
-                                <li platform="windows"><ph keyref="MiramoPDF"/> for Windows Desktop: <codeph
-                                                  id="MiramoPDF_PKG"><ph keyref="MiramoPDF"
-                                                  />-win-<ph keyref="version"
-                                                  />p<i>NNN</i>.zip</codeph></li>
-                                <li product="MiramoEnterprise" platform="linux"><ph keyref="MiramoEnterprise"/> for Linux:
+                                <li platform="windows"><ph keyref="MiramoPDF"/> for Windows Desktop:
+                                        <codeph id="MiramoDesktop_PKG"><ph
+                                                keyref="MiramoPDF"/>-win-<ph
+                                                        keyref="version"
+                                                />p<i>NNN</i>.zip</codeph>
+                                </li>
+                                <li platform="linux"><ph keyref="MiramoEnterprise"/> for Linux:
                                                   <codeph id="LinuxRH_PKG"><ph
                                                   keyref="MiramoEnterprise"/>-<i>OS</i>-<ph
                                                   keyref="version"

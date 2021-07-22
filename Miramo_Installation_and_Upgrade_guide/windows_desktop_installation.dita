@@ -6,18 +6,20 @@
         <context>
             <p>Double-click on the <codeph><ph keyref="MiramoPDF"/><ph keyref="version"
                     />p<i>NNN</i>setup.exe</codeph>, extracted from the downloaded ZIP file, to
-                install MiramoPDF. When prompted, navigate to your chosen installation folder
-                (default is <filepath>C:\Program Files\Miramo\</filepath><ph keyref="MiramoPDF"/><ph
-                    keyref="version"/> and click on OK to continue.</p>
+                install MiramoPDF. </p>
+            <p>When prompted, navigate to your chosen installation folder (default is <ph
+                    keyref="DesktopWindowsInstallFolder"/> and click on OK to continue.</p>
             <p>If an earlier version of <ph keyref="MiramoPDF"/> is already installed, you will be
-                prompted as shown below:<image href="screenshots/windows-uninstall-previous.png"
-                    placement="break" id="image_mh4_yrg_wpb" width="80mm" outputclass="float-right"
-                /></p>
+                prompted as shown below:</p>
+            <p>
+                <image href="screenshots/windows-uninstall-previous-default.png" placement="break"
+                    id="image_mh4_yrg_wpb" width="80mm" outputclass="float-right"/>
+            </p>
             <p>Click on <uicontrol>Yes</uicontrol> to uninstall the previous version (recommended),
                 or click on <uicontrol>No</uicontrol> to proceed without uninstalling the previous
                 version.</p>
             <p>Choosing default options will create the following folder:</p>
-            <p><codeph>C:\Program Files\Miramo\MiramoPDF 2.0.0</codeph></p>
+            <p><codeph><ph keyref="DesktopWindowsInstallFolder"/></codeph></p>
             <p>The <ph keyref="Designer"/>
                 <ph keyref="version"/> Desktop shortcut will be updated to point to
                 MiramoDesigner.exe in this folder, and the miramo.exe binary (composition engine) is
@@ -27,7 +29,7 @@
                 folders are included in the PATH environment variable, but the earlier version (1.6
                 in the example shown, installed in <codeph>C:\Program
                     Files\Miramo\MiramoPDF</codeph>) takes precedence.<image
-                    href="screenshots/winpath.png" id="image_pj5_135_wpb" width="50mm"
+                    href="screenshots/winpath.png" id="image_pj5_135_wpb" width="80mm"
                     outputclass="float-right"/></p>
             <p>If you wish to install multiple concurrent versions of the composition engine, and
                 are publishing using the MiramoPDF DITA-OT plugin, the location of the miramo.exe

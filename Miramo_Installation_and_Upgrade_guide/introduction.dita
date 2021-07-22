@@ -3,9 +3,11 @@
 <topic id="introduction">
     <title>Introduction</title>
     <body>
-        <p>This guide documents how to install and upgrade <ph keyref="Product"/> and the MiramoPDF
-            DITA-OT plugin, for <ph product="MiramoEnterprise">both Server and </ph>Desktop versions.</p>
-        <p product="MiramoPDF Desktop">It also includes information about downloading and installing an evaluation version of <ph keyref="MiramoEnterprise"/> for Linux.</p>
+        <p>This guide documents how to download, install and upgrade <ph keyref="Product"/> and the
+            MiramoPDF DITA-OT plugin, for <ph product="MiramoEnterprise">Server (Windows/Linux) and
+            </ph>Desktop (Windows/macOS) versions.</p>
+        <p product="MiramoPDF Desktop">It also includes information about downloading and installing
+            a trial version of <ph keyref="MiramoEnterprise"/> for Linux.</p>
         <p>Note that the installation or upgrade of the <ph keyref="plugin"/> requires <ph
                 keyref="Product"/> to be pre-installed.</p>
     </body>

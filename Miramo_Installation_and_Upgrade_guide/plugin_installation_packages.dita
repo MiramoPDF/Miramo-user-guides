@@ -4,9 +4,9 @@
 	<title>
 		<ph keyref="plugin"/> installation packages</title>
 	<body>
-		<p>
+		<p outputclass="mmpdf:keepTogether:Y">
 			<ul id="ul_rkj_v3g_wpb">
-				<li platform="windows">Windows Desktop / Server: <codeph id="windows_plugin_PKG"
+				<li platform="windows">Windows (setup.exe): <codeph id="windows_plugin_PKG"
 								><ph keyref="Product"/>DITA-OTplugin-<ph keyref="version"
 								/>p<i>NNN</i>.zip</codeph>
 				</li>

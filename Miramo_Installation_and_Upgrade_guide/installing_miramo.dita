@@ -4,13 +4,10 @@
     <title>Installing <ph keyref="Product"/></title>
     <body>
         <p>This section gives installation instructions for <ph keyref="Product"/> on Windows
-            (Desktop<ph product="MiramoEnterprise"> and/or Server), Linux (Server</ph>), and macOS (Desktop).</p>
+            (Desktop<ph product="MiramoEnterprise"> and/or Server</ph>), Linux (Server), and macOS (Desktop).</p>
         <p product="MiramoEnterprise">For Windows <ph keyref="MiramoEnterprise"/> you will to need apply a license key, see
                 <xref href="obtaining_a_windows_server_license.dita"/> for more information.</p>
-        <p>Currently a license key is not required to use <ph keyref="Product"/> on Windows Desktop,
-            Linux or macOS, simply install and start using the software. Licensing information is
-            maintained by <ph keyref="Datazone"/> referencing the serial number allocated and
-            recorded at the time of purchase.</p>
+
         <note conkeyref = "notes/license_key_note"/>
     </body>
 </topic>

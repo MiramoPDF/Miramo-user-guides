@@ -4,12 +4,7 @@
   <topicmeta>
     <author type="contributor">Pieterjan Vandenweghe</author>
     <critdates>
-      <!--Pieterjan Vandenweghe-->
-      <revised modified="2018/08/16"/>
-      <!--Pieterjan Vandenweghe-->
-      <revised modified="2018/08/17"/>
-      <!--Pieterjan Vandenweghe-->
-      <revised modified="2018/08/21"/>
+      <revised modified="2021/07/22"/>
     </critdates>
   </topicmeta>
   <keydef keys="Product">
@@ -67,8 +62,7 @@
       <keywords>
         <keyword>23</keyword>
       </keywords>
-    </topicmeta>
-    
+    </topicmeta>    
   </keydef>
   <keydef keys="MiramoEnterprise">
     <topicmeta>
@@ -123,6 +117,14 @@
     <topicmeta>
       <keywords>
         <keyword>p017</keyword>
+      </keywords>
+    </topicmeta>
+  </keydef>
+  
+  <keydef keys="DesktopWindowsInstallFolder">
+    <topicmeta>
+      <keywords>
+        <keyword>C:\Program Files\Miramo\MiramoPDF 2.0.0</keyword>
       </keywords>
     </topicmeta>
   </keydef>

@@ -31,7 +31,7 @@
       <dlentry>
         <dt>docs/</dt>
         <dd>
-          <p>flowers_default_reference.pdf, Miramo_DITA-OT_GettingStarted.pdf, Miramo_DITA-OT_GettingStarted_2.0.pdf and this document.</p>
+          <p>Contains <xref conkeyref="xrefs/xref_wx1_dmc_hqb"/></p>
         </dd>
       </dlentry>
       <dlentry>
@@ -43,8 +43,12 @@
       <dlentry>
         <dt>integration/oxygen/MiramoPDF.scenarios</dt>
         <dd>
-          <p>The oXygen transformation scenarios for producing a PDF from the currently edited DITA
-            file. Import into your oXygen tool using Options-&gt;import transformations</p>
+          <p>The <ph keyref="DitaTool"/> transformation scenarios for producing a PDF from the
+            currently edited DITA file. Import into your <ph keyref="DitaTool"/> tool using <menucascade>
+              <uicontrol>Options</uicontrol>
+              <uicontrol/>
+              <uicontrol>Import Transformation Scenarios</uicontrol>
+            </menucascade></p>
         </dd>
       </dlentry>
       <dlentry>
@@ -62,17 +66,14 @@
       <dlentry>
         <dt>mmtemplates/</dt>
         <dd>
-          <p>Miramo Format Definitions default templates for DITA publishing:</p>
-          <p>Miramo Format Definitions templates are XML files which can be edited using the
-            MiramoPDF GUI template design tool, <b>MiramoDesigner</b>. </p>
-          <p><b>default.mfd</b></p>
-          <p>default template used for publishing DITA content 'out of the box'</p>
+          <p>default.mfd: default <ph keyref="Designer"/> template for DITA publishing 'out of the
+            box'.</p>
         </dd>
       </dlentry>
       <dlentry>
         <dt>samples/flowers/</dt>
         <dd>
-          <p>The oXygen DITA flowers sample</p>
+          <p>The <ph keyref="oxygen"><ph keyref="DitaTool"/></ph> DITA flowers sample</p>
         </dd>
       </dlentry>
       <dlentry>
@@ -84,7 +85,7 @@
       <dlentry>
         <dt>xsl</dt>
         <dd>
-          <p>XSL stylesheets for mapping DITA to MiramoXML</p>
+          <p>XSL stylesheets for mapping the merged DITA content to MiramoXML</p>
         </dd>
       </dlentry>
       <dlentry>

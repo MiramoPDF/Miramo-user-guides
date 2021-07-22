@@ -9,9 +9,6 @@
             <li>Remove the current /opt/miramo-n.n.n folder</li>
             <li>Remove symbolic links <codeph>/usr/local/bin/miramo</codeph> and
                     <codeph>/usr/local/bin/miramo-n.n.n</codeph></li>
-            <li><p>For Linux RHD and DBD distributions, remove the
-                        <codeph>/usr/share/applications/miramo-designer.Desktop</codeph>
-                folder</p></li>
             <li><p>Download the Linux installation package (<xref
                         href="miramo_installation_packages.dita"/> ) and install the new version
                     according to the instructions given in <xref href="linux_installation.dita"

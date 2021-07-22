@@ -24,12 +24,12 @@
                     >S:\projects\flow\flow_18015\use_custom_xsl</filepath></entry>
               </row>
               <row>
-                <entry>Standard transformatie scenario</entry>
-                <entry><filepath>ft-mmpdf.scenarios</filepath></entry>
+                <entry>MiramoPDF transformation scenarios</entry>
+                <entry><filepath id="MiramoPDFscenarios">MiramoPDF.scenarios</filepath></entry>
               </row>
               <row>
-                <entry>MiramoPDF_PKG</entry>
-                <entry><ph keyref="version"/>pNNNsetup.exe</entry>
+                <entry>MiramoPDF_win_PKG</entry>
+                <entry><ph id="miramopdf_win_pkg"><ph keyref="MiramoPDF"/>-win-<ph keyref="version"/>p<i>NNN</i>.zip</ph></entry>
               </row>
             </tbody>
           </tgroup>

@@ -4,8 +4,9 @@
     <title>Upgrading Windows <ph keyref="MiramoPDF"/> Desktop </title>
     <body>
         <p>For Windows Desktop versions of MiramoPDF, simply download the Windows Desktop
-            installation package (<xref href="miramo_installation_packages.dita"/>) then
-            double-click on the setup.exe and follow the instructions, choosing default options and
-            answering 'Yes' when prompted whether to uninstall existing versions.</p>
+            installation package as described in<xref
+                href="downloading_miramopdf.dita#downloading/DownloadingMiramo"/>  then double-click
+            on the setup.exe and follow the instructions, choosing default options and answering
+            'Yes' when prompted whether to uninstall existing versions.</p>
     </body>
 </topic>

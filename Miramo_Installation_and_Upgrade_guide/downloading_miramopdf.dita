@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="downloading">
-    <title>Downloading</title>
+    <title id="DownloadingMiramo">Downloading</title>
     <body>
         <p><ph keyref="MiramoPDF"/> is available for Windows Desktop and macOS. <ph
                 keyref="MiramoPDF"/> includes a desktop version of <ph keyref="Designer"/>, the GUI
@@ -10,13 +10,12 @@
         <p>Trial versions of <ph keyref="MiramoPDF"/> (which includes MiramoDesigner) and <ph
                 keyref="MiramoEnterprise"/> for Linux are available for download from <xref
                 href="https://miramo.com/english/overview/dp_download.html" format="html"
-                scope="external"/>.</p>
+                scope="external">www.miramo.com</xref>.</p>
         <p>Once a license is purchased, a serial number will be allocated and a link to the
-            following download form and a download code is supplied by email: <image
-                href="screenshots/downloadForm.png" placement="break" id="image_mh4_yrg_wpb"
-                width="60mm" outputclass="float-right"/></p>
+            following download form and a download code is supplied by email: </p>
         <p>
-            <note conkeyref="notes/license_key_note" id="note_r15_4g3_3qb"/>
-        </p>       
+            <image href="screenshots/downloadform.png" placement="break" id="image_mh4_yrg_wpb"
+                width="60mm" outputclass="float-right"/>
+        </p>
     </body>
 </topic>
