@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="to_warehouse_xrefs">
-<title>Warehouse xrefs</title>
+<title>Warehouse xrefs for Getting Started Guide</title>
 <prolog status="new">
 <author></author>
 <copyright status="new">
@@ -29,8 +29,14 @@
 </prolog>
 <body>
     <p><xref id="see_gettingstarted" href="https://www.miramo.com/download/documentation/Miramo_DITA-OT_GettingStarted_2.0.pdf" scope="external" format="pdf" >MiramoPDF 2.0 DITA-OT plugin Getting Started Guide</xref></p>
-    <p><xref id="see_ant_build_params" href="https://www.miramo.com/download/documentation/Miramo_DITA-OT_GettingStarted_2.0.pdf" scope="external" format="pdf" >MiramoPDF 2.0 DITA-OT plugin Getting Started Guide</xref></p>
-    <p><xref id="see_outputclass" href="https://www.miramo.com/download/documentation/Miramo_DITA-OT_GettingStarted_2.0.pdf" scope="external" format="pdf" >MiramoPDF 2.0 DITA-OT plugin Getting Started Guide</xref></p>
-    <p><xref id="see_customizing" href="https://www.miramo.com/download/documentation/Miramo_DITA-OT_GettingStarted_2.0.pdf" scope="external" format="pdf" >MiramoPDF 2.0 DITA-OT plugin Getting Started Guide</xref></p>
- </body>
+    <p><xref id="see_ant_build_params" 
+        href="../miramopdf-dita-ot-plugin-getting-started-guide/ant-build-parameters.dita#ant-build-parameters/antbuildparams"
+    /></p>
+    <p><xref id="see_outputclass" 
+                href="../miramopdf-dita-ot-plugin-getting-started-guide/controlling-formatting-using-dita-outputclass-values.dita"
+    /></p> 
+    <p><xref id="see_customizing" 
+                href="../miramopdf-dita-ot-plugin-getting-started-guide/customizing-com-miramo-mmpdf-plugin.dita#customizing-com-miramo-mmpdf-plugin/customizing_the_plugin"
+            /></p>
+</body>
 </topic>

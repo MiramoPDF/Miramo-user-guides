@@ -56,14 +56,6 @@
     <topicref href="Miramo_Installation_and_Upgrade_guide/macOS_installation.dita" format="dita"/>
 
   </chapter>
-  <chapter href="Miramo_Installation_and_Upgrade_guide/upgrading_miramo.dita" format="dita">
-    <topicref href="Miramo_Installation_and_Upgrade_guide/windows_desktop_upgrade.dita"/>
-    <topicref href="Miramo_Installation_and_Upgrade_guide/windows_server_upgrade.dita"/>
-    <topicref href="Miramo_Installation_and_Upgrade_guide/linux_upgrade.dita"/>
-    <topicref href="Miramo_Installation_and_Upgrade_guide/macOS_upgrade.dita"/>
-
-  </chapter>
-
   <chapter href="miramopdf-dita-ot-plugin-getting-started-guide/installing.dita" format="dita">
     <topicref href="miramopdf-dita-ot-plugin-getting-started-guide/system-requirements.dita"/>
     <topicref
@@ -74,7 +66,8 @@
         <topicref
           href="miramopdf-dita-ot-plugin-getting-started-guide/import-miramopdf-transformation-scenarios-oxygen.dita"/>
         <topicref
-          href="miramopdf-dita-ot-plugin-getting-started-guide/make-oXygen-content-completion-present-outputclass-values.dita"/>
+          href="miramopdf-dita-ot-plugin-getting-started-guide/make-oXygen-content-completion-present-outputclass-values.dita"
+        />
       </topicref>
       <!--<topicref href="miramopdf-dita-ot-plugin-getting-started-guide/installing-integrating-plugin-with-xmetal.dita">
         <topicref href="miramopdf-dita-ot-plugin-getting-started-guide/installing-from-setup-exe-xmetal.dita"/>
@@ -84,9 +77,15 @@
         </topicref>
         <topicref href="miramopdf-dita-ot-plugin-getting-started-guide/test-integration-xmetal.dita"/>
       </topicref>-->
-      
     </topicref>
     <topicref href="miramopdf-dita-ot-plugin-getting-started-guide/files-and-folders.dita"/>
+  </chapter>
+  <chapter href="Miramo_Installation_and_Upgrade_guide/upgrading_miramo.dita" format="dita">
+    <topicref href="Miramo_Installation_and_Upgrade_guide/windows_desktop_upgrade.dita"/>
+    <topicref href="Miramo_Installation_and_Upgrade_guide/windows_server_upgrade.dita"/>
+    <topicref href="Miramo_Installation_and_Upgrade_guide/linux_upgrade.dita"/>
+    <topicref href="Miramo_Installation_and_Upgrade_guide/macOS_upgrade.dita"/>
+
   </chapter>
   <chapter
     href="miramopdf-dita-ot-plugin-getting-started-guide/upgrading-miramo-dita-ot-plugin.dita"

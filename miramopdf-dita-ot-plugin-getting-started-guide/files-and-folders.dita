@@ -13,8 +13,8 @@
         <dt>cfg/</dt>
         <dd>
           <p>XSL stylesheet placeholders and language specific localization strings. <b>Do not
-              change the contents of this folder</b> - refer to the <xref
-              conkeyref="xrefs/xref_wx1_dmc_hqb"/> for information on generating a custom plugin
+              change the contents of this folder</b> - refer to <xref
+              conkeyref="xrefs/see_customizing"/> for information on generating a custom plugin
             based on com.miramo.mmpdf, and setting the
               <codeph>mmpdf:localization-strings.dir</codeph> ant build parameter.</p>
         </dd>
@@ -22,15 +22,14 @@
       <dlentry>
         <dt>com.example.my-mmpdf/</dt>
         <dd>
-          <p>Contains source files for making a specialization of the com.miramo.mmpdf plugin. See
-            the chapter on customization in the <xref conkeyref="xrefs/xref_wx1_dmc_hqb"/> for more
-            details.</p>
+          <p>Contains source files for making a specialization of the com.miramo.mmpdf plugin. Refer to <xref conkeyref="xrefs/see_customizing"/> for more
+            details on creating a custom plugin.</p>
         </dd>
       </dlentry>
       <dlentry>
         <dt>docs/</dt>
         <dd>
-          <p>Contains <xref conkeyref="xrefs/xref_wx1_dmc_hqb"/></p>
+          <p>Contains <xref conkeyref="xrefs/see_gettingstarted"/></p>
         </dd>
       </dlentry>
       <dlentry>

@@ -7,7 +7,7 @@
             <li>Drag the <ph keyref="MiramoPDF"/>
                 <ph keyref="version"/>app from the Applications folder to the Trash (at the end of
                 the Dock)</li>
-            <li><p>Download the macOS installation package as described in<xref
+            <li><p>Download the macOS installation package as described in <xref
                         href="downloading_miramopdf.dita#downloading/DownloadingMiramo"/> and
                     install the new version according to the instructions given in <xref
                         href="macOS_installation.dita"/>.</p></li>

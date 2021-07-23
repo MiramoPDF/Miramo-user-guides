@@ -29,7 +29,7 @@
 </prolog>
 <body>
     <p id="ant_build_params">See the
-        <xref conkeyref="xrefs/xref_wx1_dmc_hqb"/> for information on <ph keyref="Product"/>
+        <xref conkeyref="xrefs/see_gettingstarted"/> for information on <ph keyref="Product"/>
         related ant build parameters.</p>
 </body>
 </topic>

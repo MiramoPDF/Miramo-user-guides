@@ -18,6 +18,5 @@
         <ph keyref="version"/> Dev (with PDF tooltips)</codeph> transformation scenarios, which are
       set up to produce a PDF from the currently edited DITA file, and which can be applied and
       modified as required. </p>
-    <p>See the <xref conkeyref="xrefs/xref_wx1_dmc_hqb"/> for more information.</p>
   </conbody>
 </concept>

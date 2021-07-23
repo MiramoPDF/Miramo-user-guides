@@ -35,7 +35,7 @@
         <p>If you wish to install multiple concurrent versions of the composition engine, and are
             publishing using the <ph keyref="plugin"/>, the location of the runMmComposer.sh script
             may be configured using the <codeph>miramopath</codeph> ant build parameter. See the
-                <xref conkeyref="xrefs/xref_wx1_dmc_hqb"/> for information on <ph keyref="Product"/>
+                <xref conkeyref="xrefs/see_gettingstarted"/> for information on <ph keyref="Product"/>
             related ant build parameters.</p>
         <p>To read more about ant build parameters see <xref
                 href="https://www.oxygenxml.com/doc/versions/23.1/ug-editor/topics/ant-transformation-parameters-tab.html"
