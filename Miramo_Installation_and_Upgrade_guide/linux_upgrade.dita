@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="linux_uninstall">
-    <title>Upgrading Linux <ph keyref="MiramoEnterprise"/></title>
+    <title>Upgrading <ph keyref="MiramoEnterprise"/> on Linux</title>
     <body>
         <p>Log in as the administrator user (root) and uninstall <ph keyref="Product"/> as
             follows:</p>

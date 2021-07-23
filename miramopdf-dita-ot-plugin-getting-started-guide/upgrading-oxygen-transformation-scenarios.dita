@@ -2,7 +2,8 @@
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept xml:lang="en-us" id="upgrading-oxygen-transformation-scenarios">
-  <title>Upgrading oXygen Transformation scenarios</title>
+  <title>Upgrading the <ph keyref="MiramoPDF"/>
+    <ph keyref="DitaTool"/> Transformation scenarios</title>
   <conbody>
     <p>Before importing the transformation scenarios, open the <wintitle>Transformation
         Scenarios</wintitle> window and ensure that the <uicontrol>Show all scenarios</uicontrol> is

@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="windows_desktop_installation">
-    <title>Windows <ph keyref="MiramoPDF"/> Desktop installation</title>
+    <title>Installing <ph keyref="MiramoPDF"/> Desktop on Windows</title>
     <taskbody>
         <context>
             <p>Double-click on the <codeph><ph keyref="MiramoPDF"/><ph keyref="version"
-                    />p<i>NNN</i>setup.exe</codeph>, extracted from the downloaded ZIP file, to
-                install MiramoPDF. </p>
-            <p>When prompted, navigate to your chosen installation folder (default is <ph
-                    keyref="DesktopWindowsInstallFolder"/> and click on OK to continue.</p>
+                    />p<i>NNN</i>setup.exe</codeph>, extracted from the downloaded ZIP distribution
+                package, to install MiramoPDF. </p>
+            <p>When prompted, navigate to your chosen installation folder (default is <codeph><ph
+                    keyref="DesktopWindowsInstallFolder"/></codeph>) and click on OK to continue.</p>
             <p>If an earlier version of <ph keyref="MiramoPDF"/> is already installed, you will be
                 prompted as shown below:</p>
             <p>

@@ -20,7 +20,7 @@
 			<prodname>MiramoPDF</prodname>
 			<vrmlist>
 				<vrm version="1.6"/>
-				<vrm version="2.0"/>
+				<vrm version="2.0.0"/>
 			</vrmlist>
 		</prodinfo>
 	</bookmeta>
@@ -42,6 +42,14 @@
 				href="miramopdf-dita-ot-plugin-getting-started-guide/installing-from-setup-exe.dita"/>
 			<topicref
 				href="miramopdf-dita-ot-plugin-getting-started-guide/installing-from-archive.dita"/>
+		</topicref>
+		<topicref href="miramopdf-dita-ot-plugin-getting-started-guide/integrating-with-oxygen.dita"
+			format="dita">
+			<topicref
+				href="miramopdf-dita-ot-plugin-getting-started-guide/import-miramopdf-transformation-scenarios-oxygen.dita"/>
+			<topicref
+				href="miramopdf-dita-ot-plugin-getting-started-guide/make-oXygen-content-completion-present-outputclass-values.dita"
+			/>
 		</topicref>
 		<topicref href="miramopdf-dita-ot-plugin-getting-started-guide/files-and-folders.dita"/>
 	</chapter>
@@ -66,8 +74,5 @@
 		format="ditamap"/>
 	<chapter href="miramopdf-dita-ot-plugin-getting-started-guide/customization.ditamap"
 		format="ditamap"/>
-	<chapter href="miramopdf-dita-ot-plugin-getting-started-guide/integrating-with-oxygen.ditamap"
-		format="ditamap"/>
-	<chapter href="miramopdf-dita-ot-plugin-getting-started-guide/integrating-with-xmetal.ditamap"
-		format="ditamap"/>
+
 </bookmap>

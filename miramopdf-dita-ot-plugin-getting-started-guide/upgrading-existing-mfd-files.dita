@@ -4,9 +4,11 @@
 <concept xml:lang="en-us" id="upgrading-existing-mfd-files">
   <title>Upgrading existing MFD files</title>
   <conbody>
-    <p>Several new features and improvements have been introduced in version 2.0 of the MiramoPDF
-      DITA-OT plugin, some of which have implications for upgrading existing MFD template files.</p>
-    <p>If you are using oXygen, a new transformation scenario <codeph><ph keyref="MiramoPDF"/>
+    <p>Several new features and improvements have been introduced in version <ph keyref="version"/>
+      of the <ph keyref="plugin"/>, some of which have implications for upgrading existing MFD
+      template files.</p>
+    <p>If you are using <ph keyref="DitaTool"/>, a new transformation scenario <codeph><ph
+          keyref="MiramoPDF"/>
         <ph keyref="version"/> MFD upgrade</codeph> has been added to streamline the upgrade
       process. See <xref href="using-oxygen-miramopdf-mfd-upgrade-transformation.dita"/> for more
       information. </p>

@@ -1,9 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="linux_installation" platform="linux">
-    <title>Linux Server installation</title>
+    <title>Installing on Linux</title>
     <body>
-        <p>This section describes how to install the Linux version of <ph keyref="Product"/>.</p>
+        <p>This section describes how to install the Linux version of <ph keyref="MiramoEnterprise"
+            />.</p>
         <p>Log in to the target server as an admin user and follow the steps below:</p>
         <ol id="ol_pdr_yxt_wpb">
             <li>Create a new folder if necessary, eg <codeph>/opt/miramo</codeph>:

@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="linux_uninstall">
-    <title>Upgrading macOS <ph keyref="MiramoPDF"/> Desktop</title>
+    <title>Upgrading <ph keyref="MiramoPDF"/> on macOS Desktop</title>
     <body>
         <ol id="ol_spq_hv4_1qb">
             <li>Drag the <ph keyref="MiramoPDF"/>

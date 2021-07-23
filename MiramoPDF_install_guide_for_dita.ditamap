@@ -78,9 +78,9 @@
     href="miramopdf-dita-ot-plugin-getting-started-guide/upgrading-miramo-dita-ot-plugin.dita"
     format="dita">
     <topicref
-      href="miramopdf-dita-ot-plugin-getting-started-guide/upgrading-existing-mfd-files.dita"/>
-    <topicref
       href="miramopdf-dita-ot-plugin-getting-started-guide/upgrading-oxygen-transformation-scenarios.dita"/>
+    <topicref
+      href="miramopdf-dita-ot-plugin-getting-started-guide/upgrading-existing-mfd-files.dita"/>
     <topicref
       href="miramopdf-dita-ot-plugin-getting-started-guide/using-oxygen-miramopdf-mfd-upgrade-transformation.dita"/>
     <topicref

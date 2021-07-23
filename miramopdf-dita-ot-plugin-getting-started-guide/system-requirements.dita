@@ -13,12 +13,11 @@
     </ul>
     <p><ph keyref="MiramoPDF"/> Desktop edition runs on the following operating systems:</p>
     <ul>
-      <li>Windows 7 Professional (64 bit only)</li>
       <li>Windows 8.1 (64 bit only)</li>
       <li>Windows 10</li>
       <li>macOS (Catalina)</li>
     </ul>
-    <p><data keyref="MiramoEnterprise"/> is available to run on Windows Server and Linux operating
-      systems - contact us for more information.</p>
+    <p><ph keyref="MiramoEnterprise"/> Server is available on Windows Server and Linux operating
+      systems. <ph product="MiramoDesktop">Contact us (miramo@datazone.com) for more information.</ph></p>
   </conbody>
 </concept>

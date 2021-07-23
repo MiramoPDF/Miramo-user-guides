@@ -19,17 +19,19 @@
             </thead>
             <tbody>
               <row>
-                <entry>Custom Info </entry>
-                <entry><filepath id="custom_xsl_path"
-                    >S:\projects\flow\flow_18015\use_custom_xsl</filepath></entry>
-              </row>
-              <row>
-                <entry>MiramoPDF transformation scenarios</entry>
-                <entry><filepath id="MiramoPDFscenarios">MiramoPDF.scenarios</filepath></entry>
+                <entry>MiramoPDF.scenarios</entry>
+                <entry><filepath id="MiramoPDF.scenarios">MiramoPDF.scenarios</filepath></entry>
               </row>
               <row>
                 <entry>MiramoPDF_win_PKG</entry>
                 <entry><ph id="miramopdf_win_pkg"><ph keyref="MiramoPDF"/>-win-<ph keyref="version"/>p<i>NNN</i>.zip</ph></entry>
+              </row>
+              <row>
+                <entry id="importTransformationScenarios">importTransformationScenarios</entry>
+                <entry><menucascade>
+                  <uicontrol>Options</uicontrol>
+                  <uicontrol>Import Transformation Scenarios</uicontrol>
+                </menucascade></entry>
               </row>
             </tbody>
           </tgroup>

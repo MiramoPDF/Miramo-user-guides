@@ -14,11 +14,11 @@
       using <b>MiramoPDF</b>. It is designed to be easily integrated with your chosen XML authoring
       tool or content management system, or run with the standalone DITA-OT using a simple command
       line interface described in <xref href="command-line-interface.dita"/>.</p>
-    <p>See Appendices for information on <xref href="installing-integrating-plugin-with-oxygen.dita"
-      />, and <xref href="installing-integrating-plugin-with-xmetal.dita"/>.</p>
     <p>The <b>com.miramo.mmpdf</b> plugin is designed to cover standard formatting requirements for
-      DITA document content out of the box, but for bespoke requirements it may be customized to
-      suit your needs - for information see <xref href="customization.dita"/>.</p>
+      DITA document content out of the box, using a combination of <xref
+        href="ant-build-parameters.dita#ant-build-parameters/antbuildparams"/> and but for bespoke
+      requirements it may be customized to suit your needs - for information see <xref
+        href="customization.dita"/>.</p>
     <p>If you would like more information about server versions of Miramo, or if you need to publish
       non-DITA structured data, or would like to produce different output formats (FrameMaker, ePub,
       Kindle, HTML5 ...) please contact us (email <xref href="mailto:miramo@datazone.com"

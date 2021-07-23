@@ -1,10 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="testing_windows_Server">
-    <title>Testing Windows <ph keyref="MiramoEnterprise"/></title>
+    <title>Testing <ph keyref="MiramoEnterprise"/> on Windows Server</title>
     <body>
-        <p>The Miramo installation includes two test files in the ’tmp’ folder within the Miramo
-            installation folder: ’test.xml’ and ’testbook.xml.</p>
+        <p>The <ph keyref="MiramoEnterprise"/> installer places two test files in the
+                <codeph>tmp</codeph> folder within the chosen installation folder (by default,
+            C:\Program Files\Miramo):</p>
+        <p>
+            <codeph>test.xml</codeph> and <codeph>testbook.xml</codeph>.</p>
         <p>To test the <ph keyref="MiramoEnterprise"/> installation, start a DOS command window and
             enter the following
             commands:<codeblock id="codeblock_ctt_zjh_wpb">cd /d "%MM_HOME%/tmp"

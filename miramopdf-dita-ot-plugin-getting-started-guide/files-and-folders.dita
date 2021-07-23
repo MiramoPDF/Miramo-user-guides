@@ -7,25 +7,24 @@
     <p>The <b>com.miramo.mmpdf</b> plugin includes the following files and folders, located in the
       DITA-OT installation folder selected during installation:</p>
     <p><filepath>&lt;dita-ot-installdir>/plugins/com.miramo.mmpdf/</filepath></p>
-    <p>Source for <b>com.miramo.mmpdf</b> plugin:</p>
+    <p>Source for the <codeph>com.miramo.mmpdf</codeph> DITA-OT plugin:</p>
     <dl>
       <dlentry>
         <dt>cfg/</dt>
         <dd>
           <p>XSL stylesheet placeholders and language specific localization strings. <b>Do not
-              change the contents of this folder</b> - see <xref
-              href="customizing-com-miramo-mmpdf-plugin.dita"/> for information on generating a
-            custom plugin based on com.miramo.mmpdf and <xref
-              href="ant-build-parameters.dita#ant-build-parameters/mmpdf-localization-strings-dir"
-              >mmpdf:localization-strings.dir</xref>
-          </p>
+              change the contents of this folder</b> - refer to the <xref
+              conkeyref="xrefs/xref_wx1_dmc_hqb"/> for information on generating a custom plugin
+            based on com.miramo.mmpdf, and setting the
+              <codeph>mmpdf:localization-strings.dir</codeph> ant build parameter.</p>
         </dd>
       </dlentry>
       <dlentry>
         <dt>com.example.my-mmpdf/</dt>
         <dd>
           <p>Contains source files for making a specialization of the com.miramo.mmpdf plugin. See
-              <xref href="customizing-com-miramo-mmpdf-plugin.dita"/> for more details.</p>
+            the chapter on customization in the <xref conkeyref="xrefs/xref_wx1_dmc_hqb"/> for more
+            details.</p>
         </dd>
       </dlentry>
       <dlentry>
