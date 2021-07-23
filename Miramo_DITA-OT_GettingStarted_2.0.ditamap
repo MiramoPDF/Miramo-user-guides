@@ -29,7 +29,7 @@
 			<toc/>
 		</booklists>
 		<mapref href="_warehouse/!reuse.ditamap" format="ditamap" processing-role="resource-only"/>
-		<mapref href="_warehouse/_warehouse.ditamap" format="ditamap" processing-role="resource-only"/>
+		<mapref href="_warehouse/_warehouse_gettingstarted.ditamap" format="ditamap" processing-role="resource-only"/>
 		
 	</frontmatter>
 	<chapter href="miramopdf-dita-ot-plugin-getting-started-guide/introduction.ditamap"

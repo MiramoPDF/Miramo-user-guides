@@ -2,7 +2,7 @@
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept xml:lang="en-us" id="customizing-com-miramo-mmpdf-plugin">
-  <title>Customizing the com.miramo.mmpdf plugin</title>
+  <title id="customizing_the_plugin">Customizing the com.miramo.mmpdf plugin</title>
   <conbody>
     <p>The <b>com.miramo.mmpdf</b> plugin is intended to cover most formatting requirements, but in
       some cases it may be necessary to create a custom plugin which overrides or adds to some of
@@ -20,16 +20,16 @@
         <dlentry>
           <dt>A</dt>
           <dd><b>Default</b>
-            <ph keyref="productname02"/> folder</dd>
+            <ph keyref="plugin"/> folder</dd>
         </dlentry>
         <dlentry>
           <dt>B</dt>
           <dd><b>Custom</b>
-            <ph keyref="productname02"/> folder</dd>
+            <ph keyref="plugin"/> folder</dd>
         </dlentry>
       </dl>
     </fig>
-    <p>If you have access to <ph keyref="productname03"/> see <xref
+    <p>If you have access to <ph keyref="DitaTool"/> see <xref
         href="creating-a-custom-plugin-with-oxygen.dita"/>, otherwise follow the instructions in
         <xref href="creating-new-com-example-my-mmpdf-plugin.dita"/> or <xref
         href="creating-company-specific-plugin.dita"/></p>

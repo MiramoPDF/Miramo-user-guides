@@ -7,7 +7,7 @@
             publishing software and the <ph keyref="MiramoPDF"/> DITA-OT plugin, for <ph
                 product="MiramoEnterprise">Server (Windows/Linux) and </ph>Desktop (Windows/macOS)
             versions.</p>
-        <p product="MiramoPDF Desktop">It also includes information about downloading and installing
+        <p product="MiramoPDFDesktop">It also includes information about downloading and installing
             a trial version of <ph keyref="MiramoEnterprise"/> for Linux.</p>
         <p>Note that the installation or upgrade of the <ph keyref="plugin"/> requires <ph
                 keyref="Product"/> publishing software to be pre-installed.</p>

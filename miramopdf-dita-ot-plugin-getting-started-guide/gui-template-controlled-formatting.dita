@@ -13,7 +13,6 @@
     </fig>
     <p>The default template (default.mfd) supplied with the plugin provides a single-column layout
       for rendering MiramoXML to PDF. Here is an example: <xref
-        href="./graphics/flowers_default.pdf" format="pdf">flowers_default.pdf</xref>.</p>
-    <draft-comment author="whitel">Link to flowers_default.pdf?</draft-comment>
+        href="taskbook.pdf" format="pdf" scope="external">taskbook.pdf</xref>.</p>
   </conbody>
 </concept>
