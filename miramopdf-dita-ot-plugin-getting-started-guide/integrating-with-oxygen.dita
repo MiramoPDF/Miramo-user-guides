@@ -5,6 +5,7 @@
 	<title>Integrating the <ph keyref="plugin"/> with <ph keyref="DitaTool"/></title>
 	<conbody> <p>This section details how to integrate the MiramoPDF DITA-OT plugin with oXygen, and covers
 			importing the <ph keyref="MiramoPDF"/> transformation scenarios, and configuring content
-			completion for <ph keyref="MiramoPDF"/> specific <codeph> outputclass</codeph>
-			attributes.</p></conbody>
+			completion for <ph keyref="MiramoPDF"/> specific <codeph> outputclass </codeph>
+			attributes. See <xref conkeyref="xrefs/see_outputclass"/> for how these can be used to
+			control PDF output styling.</p></conbody>
 </concept>

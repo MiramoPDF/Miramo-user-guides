@@ -11,9 +11,10 @@
     <codeblock>ant -f integrator.xml</codeblock>
     <p>or use the dita command:</p>
     <codeblock>dita-ot-dir/bin/dita --install</codeblock>
-    <p>This will create a new transformation type 'my-mmpdf' which you can use in place of the
-      'mmpdf' transfomation type. It will also add a new ant target 'dita2my-mmpdf'.</p>
-    <p>The next stage is to modify the files in the
-        <filepath>plugins/com.example.my-mmpdf</filepath> folder.</p>
+    <p>This will register the new transformation type <codeph>abc-mmpdf</codeph> which you can use
+      in place of the <codeph>mmpdf</codeph> transfomation type. It will also add a new ant target
+        <codeph>dita2abc-mmpdf</codeph>.</p>
+    <p>The next stage is to modify the files in the <filepath>plugins/<abbreviated-form
+          keyref="com.miramo.mmpdf"/></filepath> folder.</p>
   </conbody>
 </concept>

@@ -4,18 +4,18 @@
 <concept xml:lang="en-us" id="introduction">
   <title>Introduction</title>
   <conbody>
-    <p>Thank you for your interest in the Miramo DITA Open Toolkit (OT) plugin,
-        <b>com.miramo.mmpdf</b>, which provides a simple method for generating high-quality PDFs
-      from DITA on Windows system using <b>MiramoPDF</b>, where formatting is controlled via a GUI
-      template design tool, <b>MiramoDesigner</b>.</p>
+    <p>Thank you for your interest in the <ph keyref="plugin"/>, <ph keyref="com.miramo.mmpdf"/>,
+      which provides a simple method for generating high-quality PDFs from DITA on Windows system
+      using <ph keyref="MiramoPDF"/>, where formatting is controlled via a GUI template design tool,
+        <ph keyref="Designer"/>.</p>
     <p>This Getting Started guide provides the information you need to get up and running publishing
       your DITA content, fast.</p>
     <p>The plugin maps DITA to the MiramoXML model, then applies template-controlled formatting
-      using <b>MiramoPDF</b>. It is designed to be easily integrated with your chosen XML authoring
-      tool or content management system, or run with the standalone DITA-OT using a simple command
-      line interface described in <xref href="command-line-interface.dita"/>.</p>
-    <p>The <b>com.miramo.mmpdf</b> plugin is designed to cover standard formatting requirements for
-      DITA document content out of the box, using a combination of <xref
+      using <ph keyref="MiramoPDF"/>. It is designed to be easily integrated with your chosen XML
+      authoring tool or content management system, or run with the standalone DITA-OT using a simple
+      command line interface described in <xref href="command-line-interface.dita"/>.</p>
+    <p>The <ph keyref="com.miramo.mmpdf"/> plugin is designed to cover standard formatting
+      requirements for DITA document content out of the box, using a combination of <xref
         href="ant-build-parameters.dita#ant-build-parameters/antbuildparams"/> and but for bespoke
       requirements it may be customized to suit your needs - for information see <xref
         href="customization.dita"/>.</p>

@@ -12,7 +12,10 @@
       <image href="img-gui-template.jpeg" alt="???" id="image_x4v_sbh_ghb"/>
     </fig>
     <p>The default template (default.mfd) supplied with the plugin provides a single-column layout
-      for rendering MiramoXML to PDF. Here is an example: <xref
-        href="taskbook.pdf" format="pdf" scope="external">taskbook.pdf</xref>.</p>
+      for rendering MiramoXML to PDF. </p>
+    <p>Here is the result of publishing the taskbook.ditamap sample located in the <ph
+        keyref="com.miramo.mmpdf"/>/samples/taskbook folder: <xref
+        href="https://www.miramo.com/download/documentation/taskbook_default_2.0.0.pdf" format="pdf"
+        scope="external">taskbook.pdf</xref></p>
   </conbody>
 </concept>

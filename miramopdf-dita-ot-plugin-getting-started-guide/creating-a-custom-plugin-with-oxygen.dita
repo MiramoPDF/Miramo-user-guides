@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd" []>
 <concept id="A2214761-2A2B2D5-1111CB215786625-2E7F8E" xml:lang="en-US">
-    <title>Creating a custom <ph keyref="MiramoPDF"/> using <ph keyref="oxygen"/></title>
+    <title>Creating a custom <ph keyref="plugin"/> using <ph keyref="oxygen"/></title>
     <prolog>
         <author>Yves</author>
     </prolog>
@@ -10,6 +10,8 @@
             <p>This topic describes how to use the <b>MiramoPDF <ph keyref="version"/>- generate new
                     plugin</b> transformation scenario in <ph keyref="oxygen"/> to create a new
                 custom plugin.</p>
+            <p>The plugin is for a company called <codeph>abc</codeph>, and results in a new
+                transtype <codeph>abc-mmpdf</codeph>'.</p>
         </section>
         <section><ol id="steps_epb_kpg_j3b">
                 <li>
@@ -41,12 +43,13 @@
                 </li>
                 <li>
                     <p>Create or open any DITA file.</p>
-                    <itemgroup>
-                        <p id="p_ctd_wgz_fjb">You can open a DITA file in the following
-                                <filepath>Samples</filepath> folder: </p>
-                        <p><filepath>C:\Program Files\Oxygen XML Editor
-                                21\frameworks\dita\DITA-OT3.x\plugins\com.miramo.mmpdf\samples\flowers</filepath></p>
-                    </itemgroup>
+
+                        <p id="p_ctd_wgz_fjb">For example you can open a DITA file in the following
+                                <filepath>samples</filepath> folder: </p>
+                        <p><filepath>C:\Program Files\Oxygen XML Editor <abbreviated-form
+                                    keyref="oxygenVersion"
+                                />\frameworks\dita\DITA-OT3.x\plugins\com.miramo.mmpdf\samples\flowers</filepath></p>
+                    
                 </li>
                 <li>
                     <p>Click the <uicontrol>Configure Transformation Scenario</uicontrol>
@@ -62,7 +65,7 @@
                     <p>Click the <uicontrol>Parameters</uicontrol> tab and change the
                             <uicontrol>plugin-name</uicontrol> and <uicontrol>transtype</uicontrol>
                         parameters, as shown in the example below.</p>
-                    <itemgroup>
+
                         <p>A <uicontrol>transtype</uicontrol> is a new transformation type with any
                             new custom parameters that are supported. In this case, the
                                 <uicontrol>transtype</uicontrol> is the <ph keyref="Product"/>
@@ -72,18 +75,19 @@
                             <image href="graphics/edit_ant_scenario.png" id="image_lvx_dxg_j3b"
                                 outputclass="fmdpi:144"/>
                         </fig>
-                    </itemgroup>
+                    
                 </li>
                 <li>
                     <p>Click <uicontrol>OK</uicontrol> and then <uicontrol>Apply
                             associated</uicontrol> to run the transformation scenario.</p>
-                    <itemgroup>In your DITA-OT installation folder, you will now find your custom
-                            <ph keyref="productname01"/> plugin folder where you can make the
-                        necessary customizations in the <filepath>cfg\xsl\custom.xsl</filepath>
-                            file.<fig id="fig_nn2_xfl_k3b">
+                    <p>In your DITA-OT installation folder, you will now find your custom
+                        <filepath>com.miramo.abc-mmpdf</filepath> plugin folder where you can make the necessary
+                        customizations in the <filepath>cfg\xsl\custom.xsl</filepath> file.</p>
+                    <fig
+                            id="fig_nn2_xfl_k3b">
                             <image href="graphics/custom_xsl.png" id="image_tn4_1gl_k3b"
-                                outputclass="fmdpi:144"/>
-                        </fig></itemgroup>
+                                />
+                        </fig>
                 </li>
                 <li>
                     <p>Choose <menucascade>
@@ -93,12 +97,10 @@
                 </li>
                 <li>
                     <p>Navigate to your newly created, custom <ph keyref="MiramoPDF"/> folder.</p>
-                    <itemgroup>For example: <xref
-                            href="file:///C:/Program%20Files/Oxygen%20XML%20Editor%2021/frameworks/dita/DITA-OT3.x/plugins/com.example.my-mmpdf"
-                            format="html" scope="external"><filepath>C:\Program Files\Oxygen XML
-                                Editor
-                                21\frameworks\dita\DITA-OT3.x\plugins\com.miramo.flow-mmpdf</filepath></xref>
-                        .</itemgroup>
+                    <p>For example: <filepath>C:\Program Files\Oxygen XML Editor <abbreviated-form
+                                keyref="oxygenVersion"
+                                />\frameworks\dita\DITA-OT3.x\plugins\<abbreviated-form
+                                keyref="com.abc.mmpdf"/></filepath> .</p>
                 </li>
                 <li>
                     <p>Select the .scenarios file, for example
@@ -109,22 +111,22 @@
                     <p>In the <wintitle>Import scenarios</wintitle> dialog, select
                             <uicontrol>Project Options</uicontrol> and click
                             <uicontrol>Import</uicontrol>.</p>
-                    <itemgroup>
+
                         <fig id="fig_dzc_hc2_fjb">
                             <image href="graphics/import_custom_plugin.png" id="image_j5s_3c2_fjb"
                                 outputclass="fmdpi:144"/>
                         </fig>
-                    </itemgroup>
+                    
                 </li>
                 <li>
                     <p>Click the <uicontrol>Configure Transformation Scenario</uicontrol>
                         <image href="graphics/configure_transformation_scenario_button.png"
                             id="image_w5j_vzd_fjb"/> button again.</p>
-                    <itemgroup>Your new custom <term keyref="productname01"/> transformation
-                        scenario is now ready for use.<fig id="fig_wfw_sc2_fjb">
-                            <image href="graphics/example_custom_scenario.png"
+                    <p>Your new custom <ph keyref="MiramoPDF"/> - <ph keyref="com.abc.mmpdf"
+                        /> transformation scenario is now ready for use.<fig id="fig_wfw_sc2_fjb">
+                            <image href="graphics/custom_plugin_scenario.png"
                                 id="image_wyl_tc2_fjb" outputclass="fmdpi:144"/>
-                        </fig></itemgroup>
+                        </fig></p>
                 </li>
                 <li>
                     <p>You can click <uicontrol>Apply associated</uicontrol> to test your custom

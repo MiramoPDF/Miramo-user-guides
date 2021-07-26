@@ -2119,7 +2119,7 @@
 	 fontFamily="Courier New"
 	 fontWeight="Regular"
 	 fontAngle="Regular"
-	 textSize="8.5pt"
+	 textSize="80.000000%"
 	 objId="959"/>
 <FontDef
 	 fontDef="userinput"

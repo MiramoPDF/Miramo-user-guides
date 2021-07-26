@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?><!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd"[]>
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd"[]>
 <map>
   <title>Reuse</title>
   <topicmeta>
@@ -89,6 +89,13 @@
     <topicmeta>
       <keywords>
         <keyword>com.miramo.mmpdf</keyword>
+      </keywords>
+    </topicmeta>
+  </keydef> 
+  <keydef keys="com.abc.mmpdf">
+    <topicmeta>
+      <keywords>
+        <keyword>com.abc.mmpdf</keyword>
       </keywords>
     </topicmeta>
   </keydef>

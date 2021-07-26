@@ -24,10 +24,10 @@
                 <ph keyref="version"/> Desktop shortcut will be updated to point to
                 MiramoDesigner.exe in this folder, and the miramo.exe binary (composition engine) is
                 located in the same folder.</p>
-            <p>The PATH environment variable will be set as shown here. Note that if you chose not
+            <p>The PATH environment variable will be set as shown here. Note that if you choose not
                 to uninstall the previous version, both the earlier version and 2.0.0 install
-                folders are included in the PATH environment variable, but the earlier version (1.6
-                in the example shown, installed in <codeph>C:\Program
+                folders will be included in the PATH environment variable, but the earlier version
+                (1.6 in the example shown, installed in <codeph>C:\Program
                     Files\Miramo\MiramoPDF</codeph>) takes precedence.<image
                     href="screenshots/winpath.png" id="image_pj5_135_wpb" width="80mm"
                     outputclass="float-right"/></p>
