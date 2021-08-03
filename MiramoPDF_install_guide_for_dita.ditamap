@@ -31,9 +31,9 @@
   </frontmatter>
  
   <chapter href="Miramo_Installation_and_Upgrade_guide/introduction.dita" format="dita">
-    <topicref href="Miramo_Installation_and_Upgrade_guide/downloading_miramopdf.dita"/>
     <topicref href="Miramo_Installation_and_Upgrade_guide/miramo_installation_packages.dita"/>
     <topicref href="Miramo_Installation_and_Upgrade_guide/plugin_installation_packages.dita"/>
+    <topicref href="Miramo_Installation_and_Upgrade_guide/downloading_miramopdf.dita"/>
   </chapter>
   <chapter href="Miramo_Installation_and_Upgrade_guide/installing_miramo.dita" format="dita">
     <topicref href="Miramo_Installation_and_Upgrade_guide/windows_desktop_installation.dita"
@@ -48,6 +48,8 @@
     <topicref
       href="miramopdf-dita-ot-plugin-getting-started-guide/installing-Miramo-dita-ot-plugin-for-first-time.dita">
       <topicref href="miramopdf-dita-ot-plugin-getting-started-guide/installing-from-setup-exe.dita"/>
+      <topicref
+        href="miramopdf-dita-ot-plugin-getting-started-guide/installing-from-setup-exe-oxygen_lww.dita"/>
       <topicref href="miramopdf-dita-ot-plugin-getting-started-guide/installing-from-archive.dita"/>
       <topicref href="miramopdf-dita-ot-plugin-getting-started-guide/integrating-with-oxygen.dita">
         <topicref

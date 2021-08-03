@@ -1,8 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="miramo_installation_packages">
-	<title>
-		<ph keyref="plugin"/> distribution  packages</title>
+	<title><ph keyref="plugin"/> distribution packages</title>
 	<body>
 		<p outputclass="mmpdf:keepTogether:Y">
 			<ul id="ul_rkj_v3g_wpb">

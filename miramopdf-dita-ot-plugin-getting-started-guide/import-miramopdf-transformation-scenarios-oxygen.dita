@@ -1,22 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept xml:lang="en-us" id="import-miramopdf-transformation-scenarios-oxygen">
+<!DOCTYPE task
+  PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task xml:lang="en-us" id="import-miramopdf-transformation-scenarios-oxygen">
   <title>Importing MiramoPDF transformation scenarios</title>
-  <conbody>
-    <p>Once the <ph keyref="plugin"/> has been installed and the <codeph>com.miramo.mmpdf</codeph>
-      folder is in the DITA-OT plugins folder, set up the MiramoPDF transformation scenario: </p>
-    <p>Choose <menucascade>
-        <uicontrol>Options</uicontrol>
-        <uicontrol>Import Transformation Scenarios</uicontrol>
-      </menucascade> and navigate to the <codeph>MiramoPDF.scenarios</codeph> file located in
-        the<codeph> com.miramo.mmpdf/integration/oxygen</codeph> subfolder (by
-        default,<filepath>[oxygen_install_dir]/frameworks/dita/DITA-OT3.x/plugins/com.miramo.mmpdf/integration/oxygen</filepath>
-      ).</p>
-    <p>This creates the <codeph><ph keyref="MiramoPDF"/>
-        <ph keyref="version"/></codeph> and <codeph><ph keyref="MiramoPDF"/>
-        <ph keyref="version"/> Dev (with PDF tooltips)</codeph> transformation scenarios, which are
-      set up to produce a PDF from the currently edited DITA file, and which can be applied and
-      modified as required. </p>
-  </conbody>
-</concept>
+  <taskbody>
+    <prereq id="prereq_e22_53z_lqb">
+      <p>Follow the appropriate instructions in this chapter to install the <ph keyref="plugin"/> in
+        your environment. These steps assume the com.miramo.mmpdf plugin is installed and
+        integrated.</p>
+    </prereq>
+    <context/>
+    <steps id="steps_l5g_bjz_lqb">
+      <step>
+        <cmd>Choose <menucascade>
+            <uicontrol>Options</uicontrol>
+            <uicontrol>Import Transformation Scenarios</uicontrol>
+          </menucascade>.</cmd>
+      </step>
+      <step>
+        <cmd>Navigate to the <codeph>MiramoPDF.scenarios</codeph> file located in the<codeph>
+            com.miramo.mmpdf/integration/oxygen</codeph> subfolder .</cmd>
+        <info>
+          <p>By default, this subfolder is
+              <filepath>[oxygen_install_dir]/frameworks/dita/DITA-OT3.x/plugins/com.miramo.mmpdf/integration/oxygen</filepath>.</p>
+        </info>
+      </step>
+      <step>
+        <cmd>Select <filepath>MiramoPDF.scenarios</filepath>.</cmd>
+      </step>
+      <step>
+        <cmd>Click <uicontrol>Open</uicontrol>.</cmd>
+      </step>
+      <step>
+        <cmd>Select the scenarios you want to import.</cmd>
+        <info>
+          <p>You do not need to select the <b>Upgrade</b> scenario.</p>
+        </info>
+      </step>
+      <step>
+        <cmd>Click <uicontrol>Import.</uicontrol>.</cmd>
+      </step>
+    </steps>
+    <result id="result_fqj_rjz_lqb">
+      <p>This creates the <codeph><ph keyref="MiramoPDF"/>
+          <ph keyref="version"/></codeph> and <codeph><ph keyref="MiramoPDF"/>
+          <ph keyref="version"/> Dev (with PDF tooltips)</codeph> transformation scenarios, which
+        are set up to produce a PDF from the currently edited DITA file, and which can be applied
+        and modified as required.</p>
+    </result>
+  </taskbody>
+</task>

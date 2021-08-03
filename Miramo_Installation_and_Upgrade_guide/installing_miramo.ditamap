@@ -12,6 +12,6 @@
         </topicref>
     </topicref>
     <topicref href="linux_installation.dita"/>
-    <topicref href="macosx_installation.dita"/>
+    <topicref href="macOS_installation.dita"/>
 
 </map>
