@@ -1,4 +1,4 @@
-<MiramoFormatDefs xmlns:fmc="http://www.miramo.com/fmc" xmlns:mmc="http://www.miramo.com/mmc" xml:space="preserve" mfdVersion="2.0.0p023"  language="en" objId="844484" space="preserve">
+<MiramoFormatDefs xmlns:fmc="http://www.miramo.com/fmc" xmlns:mmc="http://www.miramo.com/mmc" xml:space="preserve" mfdVersion="2.0.0p026"  language="en" objId="844484" space="preserve">
 <Units
 	 name="in"
 	 objId="1436"/>
@@ -1936,7 +1936,7 @@
 	 position="normal"
 	 withNext="N"
 	 withPrevious="N"
-	 minimumLines="1"
+	 minimumLines="2"
 	 listLabel="Y"
 	 textUnderline="none"
 	 textOverline="N"
@@ -2116,10 +2116,9 @@
 	 pd_displayParaBelow="body"><ListLabel type="runin" labelIndent="0.000000in" seriesLabel="" objId="784"><leader objId="785">.</leader><counter numberStyle="hidden" objId="786"/></ListLabel>codeblock sample text</ParaDef>
 <FontDef
 	 fontDef="codeph"
-	 fontFamily="Courier New"
+	 fontFamily="Cutive Mono"
 	 fontWeight="Regular"
 	 fontAngle="Regular"
-	 textSize="80.000000%"
 	 objId="959"/>
 <FontDef
 	 fontDef="userinput"
@@ -2143,8 +2142,8 @@
 	 firstLineIndent="0.00000in"
 	 startIndent="0.00000in"
 	 endIndent="0.00000in"
-	 spaceAbove="4.00pt"
-	 spaceBelow="2.00pt"
+	 spaceAbove="6.000000pt"
+	 spaceBelow="2.000000pt"
 	 leading="2.00pt"
 	 lineSpacingMode="proportional"
 	 position="normal"
@@ -5452,7 +5451,7 @@
 	 firstLineIndent="0.00000in"
 	 startIndent="0.00000in"
 	 endIndent="0.00000in"
-	 spaceAbove="4.00pt"
+	 spaceAbove="6.000000pt"
 	 spaceBelow="2.00pt"
 	 leading="2.00pt"
 	 lineSpacingMode="proportional"
@@ -5483,7 +5482,7 @@
 	 verticalShift="0.0"
 	 objId="845391"
 	 pd_displayParaAbove="prereq"
-	 pd_displayParaBelow="prereq"><ListLabel type="runin" labelIndent="0.000000in" seriesLabel="" objId="845387"><leader objId="845385">.</leader><Var varDef="lang-postreq" objId="846109"/>: </ListLabel>sample text</ParaDef>
+	 pd_displayParaBelow="prereq"><ListLabel fontDef="b" type="runin" labelIndent="0.000000in" seriesLabel="" objId="845387"><leader objId="845385">.</leader><Var varDef="lang-postreq" objId="846109"/>: <counter numberStyle="hidden" objId="987430"/></ListLabel>sample text</ParaDef>
 <ParaDef
 	 paraDef="step"
 	 fontFamily="Noto Sans"
@@ -5496,7 +5495,7 @@
 	 firstLineIndent="0.25in"
 	 startIndent="0.25in"
 	 endIndent="0.00000in"
-	 spaceAbove="2.00pt"
+	 spaceAbove="4.000000pt"
 	 spaceBelow="2.00pt"
 	 leading="2.00pt"
 	 lineSpacingMode="proportional"
@@ -5527,7 +5526,7 @@
 	 verticalShift="0.0"
 	 objId="845461"
 	 pd_displayParaAbove="body"
-	 pd_displayParaBelow="orderedlistitem2">orderedlistitem1 sample text<ListLabel type="fixed" labelIndent="0.00in" seriesLabel="step" width="0.25in" objId="845457"><leader objId="845455"/><counter numberStyle="westernArabic" objId="845456"/></ListLabel></ParaDef>
+	 pd_displayParaBelow="orderedlistitem2">orderedlistitem1 sample text<ListLabel type="fixed" labelIndent="0.100000in" seriesLabel="step" width="0.25in" objId="845457"><leader objId="845455"/><counter numberStyle="westernArabic" objId="845456"/></ListLabel></ParaDef>
 <VarDef
 	 varDef="lang-prereq"
 	 objId="845636"></VarDef>
@@ -5546,7 +5545,7 @@
 	 firstLineIndent="0.00000in"
 	 startIndent="0.00000in"
 	 endIndent="0.00000in"
-	 spaceAbove="4.00pt"
+	 spaceAbove="6.000000pt"
 	 spaceBelow="0.00pt"
 	 leading="2.00pt"
 	 lineSpacingMode="proportional"
@@ -5590,7 +5589,7 @@
 	 firstLineIndent="0.25in"
 	 startIndent="0.25in"
 	 endIndent="0.00000in"
-	 spaceAbove="4.00pt"
+	 spaceAbove="4.000000pt"
 	 spaceBelow="0.00pt"
 	 leading="2.00pt"
 	 lineSpacingMode="proportional"
@@ -5685,17 +5684,17 @@
 <ParaDef
 	 paraDef="stepsection"
 	 fontFamily="Noto Sans"
-	 fontWeight="Light"
-	 fontAngle="Italic"
+	 fontWeight="SemiBold"
+	 fontAngle="Regular"
 	 textSize="10.00pt"
-	 textColor="DocumentColor1"
+	 textColor="Black"
 	 language=""
 	 textAlign="start"
 	 firstLineIndent="0.00000in"
 	 startIndent="0.25in"
 	 endIndent="0.00000in"
 	 indentMode="relative"
-	 spaceAbove="2.00pt"
+	 spaceAbove="6.000000pt"
 	 spaceBelow="2.00pt"
 	 leading="2.00pt"
 	 lineSpacingMode="proportional"
@@ -6225,8 +6224,8 @@
 	 textColor="Black"
 	 language=""
 	 textAlign="start"
-	 firstLineIndent="0.5in"
-	 startIndent="0.5in"
+	 firstLineIndent="0.250000in"
+	 startIndent="0.250000in"
 	 endIndent="0.00000in"
 	 spaceAbove="2.00pt"
 	 spaceBelow="2.00pt"
@@ -6259,10 +6258,10 @@
 	 verticalShift="0.0"
 	 objId="862404"
 	 pd_displayParaAbove="orderedlistitem1"
-	 pd_displayParaBelow="orderedlistitem3">orderedlistitem2 sample text <ListLabel type="fixed" labelIndent="0.25in" seriesLabel="step" width="0.25in" objId="862400"><leader objId="862398"/><counter numberPrefix="." parent="step" numberStyle="lowercaseAlpha" hideParentNumber="Y" objId="862399"/></ListLabel></ParaDef>
+	 pd_displayParaBelow="orderedlistitem3">orderedlistitem2 sample text <ListLabel type="fixed" labelIndent="0.10in" seriesLabel="step" width="0.25in" objId="862400"><leader objId="862398"/><counter numberPrefix="." parent="step" numberStyle="lowercaseAlpha" hideParentNumber="Y" objId="862399"/></ListLabel></ParaDef>
 <VarDef
 	 varDef="miramoVersion"
-	 objId="862468">2.0.0p023</VarDef>
+	 objId="862468">2.0.0p026</VarDef>
 <VarDef
 	 varDef="pluginVersion"
 	 objId="862529">161p45</VarDef>
@@ -6520,7 +6519,7 @@
 	 objId="964301"/>
 <VarDef
 	 varDef="miramoVersion"
-	 objId="979229">2.0.0p023</VarDef>
+	 objId="979229">2.0.0p026</VarDef>
 <VarDef
 	 varDef="pluginVersion"
 	 objId="979230">200b02</VarDef>
@@ -6603,7 +6602,7 @@
 	 objId="979248"/>
 <VarDef
 	 varDef="miramoVersion"
-	 objId="979249">2.0.0p023</VarDef>
+	 objId="979249">2.0.0p026</VarDef>
 <ParaDef
 	 paraDef="note_tbl"
 	 fontFamily="Noto Sans"
@@ -6814,7 +6813,7 @@
 	 pd_displayParaBelow="hidden_section_title"><ListLabel type="runin" labelIndent="0.350in" seriesLabel="" objId="589"><leader objId="590">.</leader><counter numberStyle="hidden" objId="591"/></ListLabel>sample textjjj</ParaDef>
 <VarDef
 	 varDef="miramoVersion"
-	 objId="980648">2.0.0p023</VarDef>
+	 objId="980648">2.0.0p026</VarDef>
 <VarDef
 	 varDef="pluginVersion"
 	 objId="980649">200p009</VarDef>
@@ -7754,7 +7753,7 @@
 	 pd_displayParaBelow="topic_title2"><ListLabel type="fixed" labelIndent="0.000in" seriesLabel="titles" width="0.800000in" objId="7374"><leader objId="7376"/><counter numberPrefix="." parent="topic_title|chapter_title" numberStyle="westernArabic" objId="7378"/></ListLabel>topictopic_title sample text</ParaDef>
 <VarDef
 	 varDef="miramoVersion"
-	 objId="980734">2.0.0p023</VarDef>
+	 objId="980734">2.0.0p026</VarDef>
 <ParaDef
 	 paraDef="itemgroup"
 	 fontFamily="Noto Sans"

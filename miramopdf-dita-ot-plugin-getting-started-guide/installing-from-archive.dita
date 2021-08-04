@@ -4,10 +4,10 @@
 <task xml:lang="en-us" id="installing-from-setup-exe">
   <title>Installing the <ph keyref="plugin"/> from ZIP archive [all platforms]</title>
   <taskbody>
-    <prereq id="prereq_pbm_jfz_lqb">
+<!--    <prereq id="prereq_pbm_jfz_lqb">
       <p>See <xref href="system-requirements.dita"/>.</p>
       <p>The <ph keyref="Product"/> publishing software must already be installed.</p>
-    </prereq>
+    </prereq>-->
     <steps id="steps_jhs_h3z_lqb">
       <step>
         <cmd>Download the Miramo DITA-OT plugin ZIP file from <xref href="http://www.miramo.com"

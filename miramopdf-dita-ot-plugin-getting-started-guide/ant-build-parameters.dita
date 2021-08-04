@@ -80,6 +80,12 @@
             </entry>
           </row>
           <row>
+            <entry>miramopath</entry>
+            <entry>miramo</entry>
+            <entry>Miramo composer executable name or path - use default value unless you wish to
+              run multiple concurrent versions of the composition engine</entry>
+          </row>
+          <row>
             <entry>output.dir</entry>
             <entry>${cfd}</entry>
             <entry>
@@ -151,6 +157,15 @@
             <entry>px</entry>
             <entry>Default units for image width/height values if none specified. Allowed values:
               "px" (default) "pt" "mm" "pc" "cm" "dd" "cc" </entry>
+          </row>
+          <row>
+            <entry>mmpdf:docTitle</entry>
+            <entry>fromDITA</entry>
+            <entry>
+              <p>Set PDF document metadata title: fromDITA (default, use DITA document title),
+                fromPDF (use PDF file name), or custom value (specify a custom string)</p>
+              <p>Allowed values: "fromDITA" (default) "fromPDF"  "my custom document title"</p>
+            </entry>
           </row>
           <row>
             <entry>mmpdf:fontPath</entry>

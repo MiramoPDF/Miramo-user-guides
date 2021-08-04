@@ -5,8 +5,7 @@
     <taskbody>
         <prereq id="prereq_fps_5cz_lqb">
             <ol id="ol_kb1_bdz_lqb">
-                <li>Download the appropriate package from the download site:<ul id="ul_jbf_pxy_lqb">
-                        <li platform="linux">
+                <li>Download the appropriate package from the download site:
                             <p>
                                 <codeph><ph keyref="MiramoEnterprise"/>-CentOS7-<ph keyref="version"
                                         />p<i>NNN</i>.tar.gz</codeph></p>
@@ -17,10 +16,11 @@
                                 <codeph><ph keyref="MiramoEnterprise"/>-Ubuntu18-<ph
                                         keyref="version"/>p<i>NNN</i>.tar.gz</codeph></p>
                         </li>
-                    </ul></li>
+
                 <li>Log in to the target server as an admin user.</li>
             </ol>
         </prereq>
+        <context>Follow the steps below to install:</context>
         <steps id="steps_shn_zcz_lqb">
             <step>
                 <cmd>Create a new folder if necessary, eg <codeph>/opt/miramo</codeph>:</cmd>

@@ -4,12 +4,12 @@
 <task xml:lang="en-us" id="import-miramopdf-transformation-scenarios-oxygen">
   <title>Importing MiramoPDF transformation scenarios</title>
   <taskbody>
-    <prereq id="prereq_e22_53z_lqb">
+<!--    <prereq id="prereq_e22_53z_lqb">
       <p>Follow the appropriate instructions in this chapter to install the <ph keyref="plugin"/> in
         your environment. These steps assume the com.miramo.mmpdf plugin is installed and
         integrated.</p>
     </prereq>
-    <context/>
+    <context/>-->
     <steps id="steps_l5g_bjz_lqb">
       <step>
         <cmd>Choose <menucascade>
@@ -33,9 +33,6 @@
       </step>
       <step>
         <cmd>Select the scenarios you want to import.</cmd>
-        <info>
-          <p>You do not need to select the <b>Upgrade</b> scenario.</p>
-        </info>
       </step>
       <step>
         <cmd>Click <uicontrol>Import.</uicontrol>.</cmd>

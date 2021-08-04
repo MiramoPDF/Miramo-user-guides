@@ -4,12 +4,12 @@
     <title>Installing <ph keyref="MiramoPDF"/> Desktop on Windows</title>
     <taskbody>
         <prereq id="prereq_q4v_21z_lqb">
-            <ul id="ol_otm_f1z_lqb">
+            <ol id="ol_otm_f1z_lqb">
                 <li>Download the <codeph id="MiramoDesktop_PKG"><ph keyref="MiramoPDF"/>-win-<ph
                             keyref="version"/>p<i>NNN</i>.zip</codeph> package from the download
                     site.</li>
                 <li>Extract the downloaded zip file to a temporary folder</li>
-            </ul>
+            </ol>
         </prereq>
         <context>Locate the extracted setup.exe and follow the steps below:</context>
         <steps id="steps_zt4_qzy_lqb">

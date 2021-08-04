@@ -3,7 +3,7 @@
 <task id="windows_desktop_upgrade">
     <title>Upgrading <ph keyref="MiramoPDF"/> on Windows Desktop</title>
     <taskbody>
-        <context/>
+   <!--     <context/> -->
         <steps id="steps_ukq_4mz_lqb">
             <step>
                 <cmd>Download the Windows Desktop installation package as described in <xref

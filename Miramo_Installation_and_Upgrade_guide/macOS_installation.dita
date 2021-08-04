@@ -31,9 +31,7 @@
                     <substep>
                         <cmd>Click the apple icon.</cmd>
                     </substep>
-                </substeps>
-                <substeps id="substeps_o5v_gcz_lqb">
-                    <substep>
+                     <substep>
                         <cmd>Click <uicontrol>System Preferences</uicontrol>:</cmd>
                         <stepxmp>
                             <fig id="fig_exs_qcz_lqb">
@@ -42,8 +40,6 @@
                             </fig>
                         </stepxmp>
                     </substep>
-                </substeps>
-                <substeps id="substeps_rw2_hcz_lqb">
                     <substep>
                         <cmd>Choose <uicontrol>Security &amp; Privacy</uicontrol>:</cmd>
                         <stepxmp>
@@ -53,8 +49,6 @@
                             </fig>
                         </stepxmp>
                     </substep>
-                </substeps>
-                <substeps id="substeps_nw5_hcz_lqb">
                     <substep>
                         <cmd>Click on <uicontrol>Open Anyway</uicontrol>:</cmd>
                         <stepxmp>

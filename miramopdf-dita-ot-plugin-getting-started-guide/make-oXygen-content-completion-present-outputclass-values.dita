@@ -9,14 +9,14 @@
       <p>The <ph keyref="plugin"/> includes a file named <codeph>cc_config_miramo.xml</codeph>. This
         file contains entries like this:</p>
       <codeblock>&lt;match elementName="p" attributeName="outputclass">
-	&lt;items action="append">
-		&lt;item value="mmpdf:span" annotation="Spans title across all columns in multi-column document"/>
-		&lt;item value="mmpdf:pageBreak" annotation="breaks page before title/p/note paragraph"/>
-		&lt;item value="mmpdf:columnBreak" annotation="force title/p/note paragraph to top of next column 
-		    (or page, for singlecolumn documents)"/>
-		&lt;item value="mmpdf:section:name" annotation="start new section using SectionDef 'name'. 
-		    SectionDef is defined in the MFD template"/>
-	&lt;/items>
+  &lt;items action="append">
+    &lt;item value="mmpdf:span" annotation="Spans title across all columns in multi-column document"/>
+    &lt;item value="mmpdf:pageBreak" annotation="breaks page before title/p/note paragraph"/>
+    &lt;item value="mmpdf:columnBreak" annotation="force title/p/note paragraph to top of next column 
+        (or page, for singlecolumn documents)"/>
+    &lt;item value="mmpdf:section:name" annotation="start new section using SectionDef 'name'. 
+        SectionDef is defined in the MFD template"/>
+  &lt;/items>
 &lt;/match></codeblock>
       <p>These <xmlelement>match</xmlelement> entries allow content completion for the MiramoPDF
         @outputclass values.</p><p>To configure <ph keyref="DitaTool"/>'s content completion, it is necessary to copy and paste the

@@ -5,6 +5,10 @@
   <title>Using the <ph keyref="DitaTool"/> 'MiramoPDF <ph keyref="version"/> MFD upgrade'
     transformation</title>
   <taskbody>
+    <prereq>Import the  <filepath conkeyref="reuse/MiramoPDF.scenarios"/> file from the <codeph><ph
+          keyref="com.miramo.mmpdf"/>/integration/oxygen</codeph> folder - see <xref
+        href="import-miramopdf-transformation-scenarios-oxygen.dita"/> for more
+      information.</prereq>
     <steps id="steps_k2g_qpz_lqb">
       <step>
         <cmd>Open the target MFD template as an XML file in <ph keyref="oxygen"/>.</cmd>

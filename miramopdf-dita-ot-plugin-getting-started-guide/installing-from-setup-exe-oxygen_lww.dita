@@ -3,10 +3,10 @@
 <task id="task_gyp_rgz_lqb">
     <title>Installing the <ph keyref="plugin"/> in Oxygen using the setup.exe [Windows only]</title>
     <taskbody>
-        <prereq id="prereq_pbm_jfz_lqb">
+ <!--       <prereq id="prereq_pbm_jfz_lqb">
             <p>See <xref href="system-requirements.dita"/>.</p>
             <p>The <ph keyref="Product"/> publishing software must already be installed.</p>
-        </prereq>
+        </prereq>-->
         <context>
             <p>These instructions refer to <ph keyref="oxygen"/> (version 20 and above).</p>
         </context>

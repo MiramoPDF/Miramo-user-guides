@@ -11,11 +11,10 @@
                 keyref="MiramoEnterprise"/> for Linux are available for download from <xref
                 href="https://miramo.com/english/overview/dp_download.html" format="html"
                 scope="external">www.miramo.com</xref>.</p>
-        <p>Once a license is purchased, a serial number will be allocated and a link to the
-            following download form and a download code is supplied by email: </p>
-        <p>
+        <p outputclass="mmpdf:keepTogether:Y">Once a license is purchased, a serial number will be allocated and a link to the
+            following download form and a download code is supplied by email: 
             <image href="screenshots/downloadform.png" placement="break" id="image_mh4_yrg_wpb"
-                width="60mm" outputclass="float-right"/>
+                width="80mm" outputclass="float-right"/>
         </p>
     </body>
 </topic>

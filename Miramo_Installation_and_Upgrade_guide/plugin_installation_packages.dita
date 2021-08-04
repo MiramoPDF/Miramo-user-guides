@@ -3,7 +3,6 @@
 <topic id="miramo_installation_packages">
 	<title><ph keyref="plugin"/> distribution packages</title>
 	<body>
-		<p outputclass="mmpdf:keepTogether:Y">
 			<ul id="ul_rkj_v3g_wpb">
 				<li platform="windows">Windows (setup.exe): <p><codeph id="windows_plugin_PKG"
 								><ph keyref="Product"/>DITA-OTplugin-<ph keyref="version"
@@ -12,6 +11,5 @@
 				<li>All platforms: <p><codeph>com.miramo.mmpdf-<ph keyref="version"
 					/>p<i>NNN</i>.zip</codeph></p></li>
 			</ul>
-		</p>
 	</body>
 </topic>

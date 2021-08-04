@@ -138,6 +138,26 @@
                 table cell.</p></entry>
           </row>
           <row>
+            <entry align="left" valign="top">
+              <p>mmpdf:svgDef:<i>name</i></p>
+            </entry>
+            <entry align="left" valign="top">
+              <p>fig, table,</p>
+              <p>simpletable, reltable, hazardstatement, row, strow, entry, stentry</p>
+            </entry>
+            <entry align="left" valign="middle">
+              <p>set background SVG fill to svgDef <i>name</i>.</p>
+              <p>If applied to a <codeph>&lt;fig&gt;</codeph>, <codeph>&lt;table&gt;</codeph>,
+                  <codeph>&lt;simpletable&gt;</codeph>, <codeph>&lt;reltable&gt;</codeph> or
+                  <codeph>&lt;hazardstatement&gt;</codeph>, the SVG fill applies to the entire
+                table.</p>
+              <p>If applied to a <codeph>&lt;row&gt;</codeph> or <codeph>&lt;strow&gt;</codeph>
+                element, the SVG fill applies to the entire row.</p>
+              <p>If applied to a <codeph>&lt;entry&gt;</codeph> or <codeph>&lt;stentry&gt;</codeph>
+                element, the SVG fill applies to the table cell.</p>
+            </entry>
+          </row>
+          <row>
             <entry align="left" valign="middle"><p>mmpdf:maximumHeight:<i>dim</i>
               </p></entry>
             <entry align="left" valign="middle"><p>row, strow</p></entry>
