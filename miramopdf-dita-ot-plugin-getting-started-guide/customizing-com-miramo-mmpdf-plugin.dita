@@ -34,7 +34,7 @@
     </fig>
     <p>If you have access to <ph keyref="DitaTool"/> see <xref
         href="creating-a-custom-plugin-with-oxygen.dita"/>, otherwise follow the instructions in
-        <xref href="creating-a-custom-plugin-manually.dita"/>.</p>
+      <xref href="manually-creating-new-custom-plugin.dita"/>.</p>
     <p>The chapter also includes a simple example of working with the new plugin (<ph
         keyref="com.abc.mmpdf"/>) to make changes to localization text, default ant build parameters
       parameter values, and includes some XSLT stylesheet customizations which change the behaviour

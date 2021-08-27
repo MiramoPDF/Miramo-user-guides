@@ -41,6 +41,8 @@
 			<topicref
 				href="miramopdf-dita-ot-plugin-getting-started-guide/installing-from-setup-exe.dita"/>
 			<topicref
+				href="miramopdf-dita-ot-plugin-getting-started-guide/installing-from-setup-exe-oxygen_lww.dita"/>
+			<topicref
 				href="miramopdf-dita-ot-plugin-getting-started-guide/installing-from-archive.dita"/>
 		</topicref>
 		<topicref href="miramopdf-dita-ot-plugin-getting-started-guide/integrating-with-oxygen.dita"

@@ -6,7 +6,11 @@
   <conbody>
     <p>Next, install the new com.example.my-mmpdf plugin by running the DITA-OT ant integration tool
       as enabled by your CMS or authoring tool, or using one of the commands below.</p>
-    <p>For oXygen, see <xref href="running-dita-ot-integrator-oxygen.dita"/>.</p>
+    <p>For oXygen, start your preferred oXygen product, open a DITA file or map in the editor window
+      and run the predefined transformation scenario called <b>Run DITA OT Integrator</b>: execute
+      it from the <codeph>Document-&gt;Transformation- &gt;Apply Transformation Scenario(s)</codeph>
+      dialog box. If the integrator is not visible, select the Show all scenarios option that is
+      available in the Settings drop-down menu.</p>
     <p>For standalone DITA-OT installations, use:</p>
     <codeblock>ant -f integrator.xml</codeblock>
     <p>or use the dita command:</p>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd" []>
-<concept id="A2214761-2A2B2D5-1111CB215786625-2E7F8E" xml:lang="en-US">
-    <title>Creating a custom <ph keyref="plugin"/> using <ph keyref="oxygen"/></title>
+<concept id="creating-a-custom-plugin-with-oxygen" xml:lang="en-US">
+    <title >Creating a custom <ph keyref="plugin"/> using <ph keyref="oxygen"/></title>
     <prolog>
         <author>Yves</author>
     </prolog>
